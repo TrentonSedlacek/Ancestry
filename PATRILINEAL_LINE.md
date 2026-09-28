@@ -26,6 +26,12 @@ flowchart TD
 
 ## Other sons in each generation (collateral male lines)
 
+Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md):
+
+- James (gen 1): possible other sons Matej "Mike" Sedlak (1878–1960) and Thomas Sedlak (about 1876–1943), both of Plattsmouth.
+- Joseph (gen 2): likely sons Emil Joseph (1898 Grand Island – 1992 Denver) and Frank Valentine (1909–1981 Omaha, m. Rose), possibly a Joseph Jr. (in Grand Island in 1932), and a daughter Frances (m. Frank Koubek 1932).
+- Frank Valentine's possible sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr.
+
 - George Henry Sedlacek (gen 3) had sons Richard W. (1932–2001), George Daniel (1934–2014) and David Joseph Sr. (1938–2023), plus a daughter, Mary (Sedlacek) Moen, named in George Daniel's 2014 obituary.
 - Richard W. Sedlacek (1932–2001) m. Patricia Ann Foltz; sons Craig Richard (1956–2008), Charles George "Chuck" (1964–2007) and Chad Michael (1966–2026); daughter Cynthia Joan (1954–1989).
 - George Daniel Sedlacek (1934–2014), veteran, m. Merradean; son Matthew (m. Abby), daughters Celia (Weskamp) and Carolyn; grandchildren Kaitlin and Michael.
