@@ -16,6 +16,22 @@ These are full name-by-name lists, like `holysepul.txt`, not map or photo pages.
 
 If a rootsweb link fails, put `https://web.archive.org/web/2020/` in front of it.
 
+## Next cemeteries, based on who we're still missing (Sep 2026)
+
+| Priority | Who | Where they probably are | Free way in |
+|---|---|---|---|
+| 1 | Frank Valentine Sedlacek (d. Mar 1981 Omaha), Rose (Rozic) | Omaha Catholic: Calvary, Holy Sepulchre (Omaha), or St. Mary's (South Omaha, near the Rozic home at 5425 S. 22nd) | Find a Grave search "Sedlacek" in Douglas Co.; Omaha Public Library burial-card microfilm (in person) |
+| 2 | Edgar S. Sedlacek (d. 1981, Navy WWII), Maxine, Lynn (d. 2026) | North Platte city cemetery, or Fort McPherson National Cemetery (Maxwell, NE) as a veteran | North Platte cemetery search https://northplattene.gov/553/Cemetery-Search ; VA Gravesite Locator https://gravelocator.cem.va.gov |
+| 3 | Kenneth M. Sedlacek (Columbus 1943, d. before 2025) | Columbus or Grand Island | Find a Grave; Nebraska Gravestones, Platte Co. |
+| 4 | Bernard Sedlacek (1921–2014, Bellevue) | Probably a WWII veteran by age; Omaha area or a national cemetery | VA Gravesite Locator |
+| 5 | Richard W., George Daniel, David Sr., Joyce, David Jr. | Forest Lawn, Omaha (already on Find a Grave) | Forest Lawn online database, linked from http://negenweb.net/NEDouglas/html/cemlist.htm |
+| 6 | Tom Sedlak (d. 1943), Mike Sedlak (d. 1960), the Koubeks | Holy Sepulchre, Plattsmouth | Already in `holy-sepulchre-sedlak-excerpt.txt`; note that Frank J. Koubek (d. 1987, age 81) is in lot 4/4, the **Bukacek family lot** |
+| 7 | Goldie (Gehley), Camilla, other Grand Island family | Other Grand Island cemeteries (Catholic, Westlawn) | Find a Grave, Hall Co.; Nebraska Gravestones, Hall Co. |
+
+The **VA Gravesite Locator** (free) covers everyone buried in a national cemetery and most veterans with a government headstone anywhere. Worth checking for Edgar (Navy), Bernard, Kenneth, Donald K. (Army 1964), George Daniel (veteran), and Emil (possible WWI).
+
+Outside Nebraska: Emil and Marie at Riverview, Green River, WY (Find a Grave 75251506); Albert, if he stayed near Junction City, KS (Highland Cemetery or Fort Riley).
+
 ## Links confirmed working (the user opened them, Sep 2026)
 
 - **Hall County folder listing**, saved 10 times from 2011 to 4 Sep 2025. Open the latest capture: https://web.archive.org/web/20250904124040/files.usgwarchives.net/ne/hall/cemeteries/ . Other counties work the same way: open `https://web.archive.org/web/*/files.usgwarchives.net/ne/<county>/cemeteries/`, which shows a calendar of captures, then click the newest blue date.
