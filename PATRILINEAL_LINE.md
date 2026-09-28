@@ -24,13 +24,32 @@ flowchart TD
 | 5 | Donald James Sedlacek | | | | Family (Trenton) |
 | 6 | Trenton David Sedlacek | | | | Self |
 
+## Joseph Sedlacek's children (from Plattsmouth Journal clippings)
+
+Clippings are saved in `clippings/`. Their issue dates weren't captured, so record them if you can.
+
+| Child | What the clippings show | Status |
+|---|---|---|
+| Emil Joseph Sedlacek | Visited "Mr. Sedlacek's parents, Mr. and Mrs. Joseph Sedlacek" with his wife and baby, from Green River, Wyoming, then went on to Grand Island (08). He was on "vacation from his duties in the west" (02). | Confirmed son |
+| George Henry Sedlacek | Played for the Plattsmouth "Bohemian Sluggers" baseball team (04). | Confirmed son |
+| Frank Sedlacek | Married Miss Rose Rozic at Holy Assumption Church, South Omaha. Called "the youngest son of Mr. and Mrs. Joseph Sedlacek of this city." He had worked at the A.G. Bach stores and the Burlington shops, and then at the Omaha packing houses. The bride's parents were Mr. and Mrs. George Rozic, 5425 S. 22nd St. The couple went on to visit "relatives of the groom" in Grand Island (10). | Confirmed son, the youngest |
+| Frances Sedlacek | "Sister of the groom," bridesmaid at Frank's wedding (10). | Confirmed daughter |
+
+Other facts from the clippings:
+- **Anna's family:** John Bucacek's obituary (he was 79, so this is Sept 1928) names his four children: Joseph Bucacek of Reliance, South Dakota; Mrs. Joseph Sedlacek; Mrs. Frank Wondra; and Frank Bucacek. He came to Plattsmouth as a young man about 45 years earlier and worked about 25 years in the Burlington shops (09). This confirms Anna was his daughter.
+- **Mike Sedlak:** Adolph Bucacek of Reliance, S.D. (probably Anna's nephew) visited "the Mike Sedlak and the Joseph Sedlacek homes" (05). This links Mike Sedlak to Joseph's household. It supports the idea that Mike was Joseph's brother but doesn't prove it.
+- **Grand Island:** the family had relatives there. That fits Emil's 1898 Grand Island birth and the possible Joseph Jr. living there.
+- **Home:** Joseph and Anna lived on West Main Street, Plattsmouth. Anna was treated at a sanitarium in Lincoln and later had heart trouble (03, 06, 07). This was probably shortly before her 1929 death.
+- **Land:** Joseph Sedlacek sold part of the SE¼ NW¼ of Section 13, Township 12, Range 14 to Adolph Komenda for $1,700 (01). The county deed records would give the date and how he acquired the land.
+
 ## Other sons in each generation (collateral male lines)
 
 Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md):
 
 - James (gen 1): possible other sons Matej "Mike" Sedlak (1878–1960) and Thomas Sedlak (about 1876–1943), both of Plattsmouth.
-- Joseph (gen 2): likely sons Emil Joseph (1898 Grand Island – 1992 Denver) and Frank Valentine (1909–1981 Omaha, m. Rose), possibly a Joseph Jr. (in Grand Island in 1932), and a daughter Frances (m. Frank Koubek 1932).
-- Frank Valentine's possible sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr.
+- Joseph (gen 2): sons Emil Joseph (1898 Grand Island – 1992 Denver, lived in Green River, WY), George Henry, and Frank Valentine (1909–1981 Omaha, m. Rose Rozic), and daughter Frances (m. Frank Koubek 1932), all confirmed by clippings. There may also be a Joseph Jr. (in Grand Island in 1932).
+- Frank Valentine's likely sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr. Thomas's obituary names parents "Frank and Rose," which now fits.
+- Emil's line: he had at least one child ("baby") while living in Green River, WY. Unknown beyond that.
 
 - George Henry Sedlacek (gen 3) had sons Richard W. (1932–2001), George Daniel (1934–2014) and David Joseph Sr. (1938–2023), plus a daughter, Mary (Sedlacek) Moen, named in George Daniel's 2014 obituary.
 - Richard W. Sedlacek (1932–2001) m. Patricia Ann Foltz; sons Craig Richard (1956–2008), Charles George "Chuck" (1964–2007) and Chad Michael (1966–2026); daughter Cynthia Joan (1954–1989).
