@@ -6,7 +6,7 @@ Father-to-son line from the earliest known Sedlacek down to Trenton David Sedlac
 flowchart TD
     G1["James Sedlak<br/>1832 – 6 Jun 1890<br/>m. Mary Cobotka (about 1841 – 21 Mar 1901?)"]
     G2["Joseph J. 'Joe' Sedlacek<br/>1871 – Sep 1937<br/>m. Anna Bukacek (about 1875 – 10 Aug 1929)"]
-    G3["George Henry Sedlacek<br/>17 May 1907 – 21 May 1977<br/>m. 1931 Helen Marie Korinek (1906–2003)"]
+    G3["George Henry Sedlacek<br/>17 May 1907 – 21 May 1977<br/>m. 1931 Helen Marie Korinek (16 Apr 1906 – 30 Dec 2003)"]
     G4["David Joseph Sedlacek Sr.<br/>22 Mar 1938 – 7 Jan 2023<br/>m. 1959 Joyce Elaine Moraczewski (1941–2023)"]
     G5["Donald James Sedlacek"]
     G6["Trenton David Sedlacek"]
@@ -19,7 +19,7 @@ flowchart TD
 |---|---|---|---|---|---|
 | 1 | James Sedlak (Sedlack, Sedlacek) | 1832 (chart; burial age 59 gives about 1831) | 6 Jun 1890, age 59 | Mary Cobotka | Charts; Holy Sepulchre burial register, grave 1012 ("James Sedlack") |
 | 2 | Joseph "Joe" Sedlacek | 1871 (chart; death article age 68 gives about 1869) | Sep 1937, Plattsmouth; found dead in a ditch just east of his home at 15th and Main | Anna Bukacek (d. 10 Aug 1929, age 54) | Charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek); Holy Sepulchre lot 49, sec. 3; clippings 11, 22 |
-| 3 | George Henry Sedlacek | 17 May 1907, Plattsmouth, Cass Co., NE | 21 May 1977, Omaha, NE | Helen Marie Korinek (1906–2003), m. 1931 | Find a Grave [155297524](https://www.findagrave.com/memorial/155297524/george_henry-sedlacek); buried Calvary Catholic Cemetery, Omaha, Station 09 |
+| 3 | George Henry Sedlacek | 17 May 1907, Plattsmouth, Cass Co., NE | 21 May 1977, Omaha, NE | Helen Marie Korinek (16 Apr 1906 – 30 Dec 2003), m. 1931 | Find a Grave [155297524](https://www.findagrave.com/memorial/155297524/george_henry-sedlacek); headstone photo (dates confirmed); buried Calvary Catholic Cemetery, Omaha, Station 09 |
 | 4 | David Joseph Sedlacek Sr. | 22 Mar 1938, Omaha, NE | 7 Jan 2023, Omaha, NE | Joyce Elaine Moraczewski (1941–2023), m. 1959 | Find a Grave [255616923](https://www.findagrave.com/memorial/255616923/david_joseph-sedlacek); buried Forest Lawn Memorial Park, Omaha |
 | 5 | Donald James Sedlacek | | | | Family (Trenton) |
 | 6 | Trenton David Sedlacek | | | | Self |
@@ -147,11 +147,11 @@ Every place where a record differs from the charts (IMG_2305.JPEG = photo chart,
 | 3 | Joseph (gen 2) | Born 1871 | Age 68 at death in Sep 1937, so born about 1869 | Plattsmouth Journal "Joe Sedlacek Found Dead" (clipping 22) | Newspaper ages are often wrong. |
 | 4 | Joseph (gen 2) | "Joseph Sedlacek" | "Joseph J Sedlacek" (father of Joseph A.); "Joseph Sedlock"; "Jospeh Sedlak" | FamilySearch Nebraska Marriages 1955 (Joseph A.); burial register (Charles, 1915); Ancestry index (Emil) | Adds middle initial J. Spellings vary. |
 | 5 | Anna (gen 2 wife) | "Anna Bukacek" | "Bucacek" (newspapers); "Bukhcek" (Emil's 1923 marriage index) | Plattsmouth Journal; FamilySearch | Spelling only. |
-| 6 | George Henry (gen 3) | Died 1977 (Find a Grave: 21 May 1977) | "70, 23 May 1977" | Omaha Area Obits index (World-Herald) | 23 May is probably the notice date, not the death date. Unconfirmed. |
+| 6 | George Henry (gen 3) | Died 1977 (Find a Grave: 21 May 1977) | "70, 23 May 1977" | Omaha Area Obits index (World-Herald) | **Resolved by the headstone:** "May 21, 1977" (`photos/george-h-helen-m-sedlacek-headstone-calvary-omaha.webp`). 23 May is the notice date. |
 | 7 | Helen Marie Korinek | "Korinek"; father Vaclav Korinek | "Helen Korneck," daughter of "Mr. and Mrs. V. Korneck" of Florence | Plattsmouth Journal 30 Jul 1931 (clipping 13) | Spelling only. The father's initial matches. |
 | 8 | Františka Fousková (Anna's mother) | Parents Joseph Fousek (b. 1821) and Mariana Stara (b. 1828) | "Daughter of Joseph & Marie (Fousek?)" | Burial register, grave 944 | Consistent. Marie is a form of Mariana, and the register's "(Fousek?)" is a transcriber's guess. |
 
-No conflict (records match the charts): Anna 1875–1929 (register: died 10 Aug 1929, age 54); John Bukacek 1849–1928 (register: 24 Feb 1849 – 23 Sep 1928); Františka Fousková 1849–1926 (register: 6 Aug 1849 – 3 Oct 1926); David J. 1938–2023; George and Helen married 1931.
+No conflict (records match the charts): George H. 1907–1977 and Helen M. 1906–2003 (headstone: 17 May 1907 – 21 May 1977; 16 Apr 1906 – 30 Dec 2003); Anna 1875–1929 (register: died 10 Aug 1929, age 54); John Bukacek 1849–1928 (register: 24 Feb 1849 – 23 Sep 1928); Františka Fousková 1849–1926 (register: 6 Aug 1849 – 3 Oct 1926); David J. 1938–2023; George and Helen married 1931.
 
 ## Source files in this repo
 
