@@ -24,6 +24,44 @@ flowchart TD
 | 5 | Donald James Sedlacek | | | | Family (Trenton) |
 | 6 | Trenton David Sedlacek | | | | Self |
 
+## Uncles' lines: Joseph A., Emil, Albert (agent search, Sep 2026)
+
+This comes from search snippets only; none of the pages were opened. Confidence is marked C (confirmed in an obituary snippet), L (likely), S (speculative). None of these people appear on the historian's charts, so there are no deviations to log.
+
+**Joseph A. Sedlacek (b. 1894), the richest branch.** Possibly "Joseph **August**" (L, Ancestry index). His first wife was Ida **Irene** Delisle (L). His death and burial were not found.
+- **Bernard Sedlacek**, 25 Apr 1921 Grand Island – 29 Dec 2014 Bellevue, NE. Parents given as Joseph August Sedlacek and Ida Irene Delisle (L). This is a son we didn't know about. No children found yet.
+- **Kenneth M. Sedlacek**, m. Eleanor Kassmeyer 1941. Lived in Columbus, NE in 1943 and died before 2025 (C).
+  - **Donald K. Sedlacek**, 26 Jan 1943 Columbus – 13 Oct 2025 Council Bluffs, IA. Army 1964; retired from Union Pacific as a Special Agent in 1998. Wife Sharon; children Scott (Tina), Shelley Ragland, Stacy (C, [Hoy funeral home obituary](https://www.hoyfuneral.com/obituaries/donald-sedlacek)).
+    - **Scott Sedlacek**, living (C). Grandsons **Brandon** and **Troy** (m. Morgan) Sedlacek are named; that they are Scott's sons is L.
+- **Edgar S. Sedlacek**, died 15 Sep 1981. Navy in WWII. Married Maxine May Kamper (31 May 1925 – 30 Jun 2016) on 30 Mar 1944 in San Diego. They lived in Lexington, then Grand Island, then 29 years in North Platte (C, [Maxine's obituary](https://nptelegraph.com/obituaries/maxine-may-sedlacek-williams/article_bbee788c-3ffb-11e6-b8ea-473fbe6a8dda.html); Find a Grave 166301758).
+  - Six sons (C):
+    - Stan (Nancy), Broken Bow
+    - Pat (Eileen), Cheyenne
+    - Lee (Janie), North Platte
+    - Gene (Marsha), North Platte
+    - Tom (Merry), North Platte
+    - Lynn Raymond, died 23 Apr 2026 in North Platte; m. Beth 1976 (C, [Carpenter Memorial obituary](https://www.carpentermemorial.com/obituaries/lynn-sedlacek)). His son **Tony Sedlacek** (Christina) lives in Gothenburg, NE.
+  - Daughters: Paula (Woods), Debra Kizer, Gail (deceased), Sandra Jensen, Suzy Dodson. Maxine had 27 grandchildren. The sons of Stan, Pat, Lee, Gene, and Tom have not been searched yet.
+- Goldie Agnes (Gehley) and Camilla: nothing new.
+
+**Emil Joseph Sedlacek (1898–1992): probably no male line (L).**
+- Married **Marie Theresa Klinge** (16 Jan 1896 – 17 Jun 1988), who is buried at Riverview Cemetery, Green River, WY (Find a Grave 75251506, L). Emil is probably buried there too. Her father, Joseph John Klinge Sr. of Grand Island, names "Mrs. E. J. Sedlacek, Green River, Wyo." as a daughter.
+- Daughters:
+  - Elaine Marie (1925–2000, m. Jerry Gruber)
+  - Rita S. (1928–2025, m. Jim Kelly), who is the "baby" in clipping 08
+  - Emily Ann (1935–2015, m. Richard Macy)
+- No son was found, and the daughters' obituaries mention no brother. A son who died young would not show up in them; the 1930 and 1940 Green River census would settle it.
+
+**Albert Sedlacek: still unidentified.**
+- Probably born about 1904 in Nebraska (L, from a WikiTree index entry managed by Dan Lamb).
+- Married by 1929 and living in Junction City, KS (C, clipping 12).
+- Wife, children, and death date were not found.
+- Other Albert Sedlaceks that were checked and are probably not ours:
+  - **Al (Albert Joseph) Sedlacek** of Pocahontas, Iowa (died 1990; m. Berniece Ricklefs 1941; sons Jon 1942–2021 and Joel). He is the only candidate with sons. He would be ours only if a record shows he was born in Nebraska around 1904. S.
+  - **Albert Sedlacek** of Wenatchee, WA (m. Camilla Havlen 1937 in Illinois; daughters only). Probably not ours.
+  - **Albert Sedlacek** of Manchester, CT. Not ours.
+- Best next source: the **Plattsmouth Journal, 27 Sep 1937 p.2** (https://nebnewspapers.unl.edu/lccn/2016270206/1937-09-27/ed-1/seq-2/ocr/). It is probably Joseph's funeral notice with a survivor list, which would show where Albert lived in 1937.
+
 ## Holy Sepulchre burial register (Plattsmouth)
 
 The full list of Sedlak/Sedlacek rows is in `sources/holy-sepulchre-sedlak-excerpt.txt`. The register was compiled from the Holy Rosary and St. John the Baptist parish records.
@@ -107,8 +145,7 @@ Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md)
 - James (gen 1): possible other sons Tom/Thomas C. Sedlak (about 1875–1943) and Matthias/Mike Sedlak (1878–1960), both of Plattsmouth (see the table above).
 - Joseph (gen 2): five sons, Joseph A., Emil, Albert, Frank, and George, confirmed by Anna's obituary (see table above).
 - Frank Valentine's likely sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr. Thomas's obituary names parents "Frank and Rose," which fits.
-- Joseph A. (Grand Island, born 1894, m. Ida Delisle): sons Edgar (probably Edgar Steven, m. Maxine May Kamper) and Kenneth M. (m. Eleanor Kassmeyer 1941); daughters Goldie Agnes (Gehley) and Camilla. Their lines are not yet traced.
-- Emil (Green River, WY) and Albert (Junction City, KS) lines: not yet traced.
+- Joseph A., Emil, and Albert lines: see "Uncles' lines" below.
 
 - George Henry Sedlacek (gen 3) had sons Richard W. (1932–2001), George Daniel (1934–2014) and David Joseph Sr. (1938–2023), plus a daughter, Mary (Sedlacek) Moen, named in George Daniel's 2014 obituary.
 - Richard W. Sedlacek (1932–2001) m. Patricia Ann Foltz; sons Craig Richard (1956–2008), Charles George "Chuck" (1964–2007) and Chad Michael (1966–2026); daughter Cynthia Joan (1954–1989).
