@@ -124,6 +124,15 @@ Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md)
 5. Donald James Sedlacek: add birth date and place, and his Find a Grave or other record if one exists. Note that David Sr.'s Find a Grave page lists only David Jr. as a child, so Donald could be added there as well.
 6. Czech spelling: Sedláček (the surname means "farmer/smallholder" in Czech). Records before about 1900 may use Sedlacek, Sedlaček, Sedlak or Sedlatschek.
 
+## About the charts
+
+`IMG_2305.JPEG` and `FILE_4042 (1).pdf` were prepared by a historian, a friend of Denise (Sedlacek) Taylor. They are the baseline for this tree. The records found since then agree with them:
+- James: the chart gives 1832–1890; the burial register says died 6 Jun 1890, age 59.
+- Anna: the chart gives 1875–1929; the register says died 10 Aug 1929, age 54.
+- Joseph: the chart gives 1871–1937; he died in Sep 1937. The only difference is his age, given as 68 in the death article, which points to about 1869.
+
+The charts do not show where the historian found James Sedlak and Mary Cobotka. Her sources for them (a record, a church entry, a family paper) are the best lead for going further back.
+
 ## Source files in this repo
 
 - `IMG_2305.JPEG`: five-generation chart back to 5th great-grandparents, with dates, centered on Denise J. Sedlacek (b. 1963).
