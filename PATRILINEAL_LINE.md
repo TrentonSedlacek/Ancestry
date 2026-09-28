@@ -28,7 +28,7 @@ flowchart TD
 
 This comes from search snippets only; none of the pages were opened. Confidence is marked C (confirmed in an obituary snippet), L (likely), S (speculative). None of these people appear on the historian's charts, so there are no deviations to log.
 
-**Joseph A. Sedlacek (b. 1894), the richest branch.** Possibly "Joseph **August**" (L, Ancestry index). His first wife was Ida **Irene** Delisle (L). His death and burial were not found.
+**Joseph August Sedlacek (5 Apr 1894 – 10 Nov 1974), the richest branch.** He is buried in Grand Island City Cemetery, section G, lot 67, beside his first wife **Ida Irene** (Delisle) Sedlacek (10 Feb 1888 – 22 Feb 1952). His second wife, **Bridget** (Wardyn) Jezewski Sedlacek (5 Oct 1886 – 5 Feb 1970), is buried in G/30 with her first husband, John Joseph Jezewski (1882–1951). **Confirmed** from the cemetery burial list (`sources/grand-island-cemetery-excerpt.txt`). No Kenneth, Edgar, Bernard, or Goldie burials are in that cemetery.
 - **Bernard Sedlacek**, 25 Apr 1921 Grand Island – 29 Dec 2014 Bellevue, NE. Parents given as Joseph August Sedlacek and Ida Irene Delisle (L). This is a son we didn't know about. No children found yet.
 - **Kenneth M. Sedlacek**, m. Eleanor Kassmeyer 1941. Lived in Columbus, NE in 1943 and died before 2025 (C).
   - **Donald K. Sedlacek**, 26 Jan 1943 Columbus – 13 Oct 2025 Council Bluffs, IA. Army 1964; retired from Union Pacific as a Special Agent in 1998. Wife Sharon; children Scott (Tina), Shelley Ragland, Stacy (C, [Hoy funeral home obituary](https://www.hoyfuneral.com/obituaries/donald-sedlacek)).
@@ -45,7 +45,7 @@ This comes from search snippets only; none of the pages were opened. Confidence 
 - Goldie Agnes (Gehley) and Camilla: nothing new.
 
 **Emil Joseph Sedlacek (1898–1992): probably no male line (L).**
-- Married **Marie Theresa Klinge** (16 Jan 1896 – 17 Jun 1988), who is buried at Riverview Cemetery, Green River, WY (Find a Grave 75251506, L). Emil is probably buried there too. Her father, Joseph John Klinge Sr. of Grand Island, names "Mrs. E. J. Sedlacek, Green River, Wyo." as a daughter.
+- Married **Marie Theresa Klinge** (16 Jan 1896 – 17 Jun 1988), who is buried at Riverview Cemetery, Green River, WY (Find a Grave 75251506, L). Emil is probably buried there too. Her parents, Joseph John Klinge Sr. (30 Dec 1868 – 30 May 1951) and Mary Katherine (21 Jul 1876 – 26 Jun 1956), are buried in Grand Island City Cemetery G/202 (confirmed from the cemetery list). Her father's Find a Grave page names "Mrs. E. J. Sedlacek, Green River, Wyo." as a daughter.
 - Daughters:
   - Elaine Marie (1925–2000, m. Jerry Gruber)
   - Rita S. (1928–2025, m. Jim Kelly), who is the "baby" in clipping 08
@@ -62,6 +62,11 @@ This comes from search snippets only; none of the pages were opened. Confidence 
   - **Albert Sedlacek** of Manchester, CT. Not ours.
 - **Checked 27 Sep 1937 p.2** (the user pulled it): it holds only Cass County news and the county board's claims, with nothing on Sedlacek. The only mention there is Deputy Sheriff Cass L. Sylvester's salary. Joseph's funeral notice is still unfound; search "Sedlacek" in all Sep–Oct 1937 issues.
 - Earlier lead, now checked: the **Plattsmouth Journal, 27 Sep 1937 p.2** (https://nebnewspapers.unl.edu/lccn/2016270206/1937-09-27/ed-1/seq-2/ocr/). It is probably Joseph's funeral notice with a survivor list, which would show where Albert lived in 1937.
+
+## Other cemetery lists checked (Sep 2026)
+
+- **Oak Hill Cemetery, Plattsmouth** (rootsweb list, about 120 names): no Sedlaceks. Charles Wondra (1944–2003) is there; the Wondras are the family of Anna's sister Mary Wondra.
+- **Bohemian National Cemetery, Dodge, Dodge County** (rootsweb `bohemian.txt`): no Sedlaceks. This file is the Dodge cemetery, *not* Omaha's Bohemian National as first thought.
 
 ## Holy Sepulchre burial register (Plattsmouth)
 
@@ -119,7 +124,7 @@ Anna's 1929 obituary (11) says she was 54, lived in Plattsmouth most of her life
 
 | Child | Residence in 1929 | Other evidence | Male line to trace? |
 |---|---|---|---|
-| Joseph A. Sedlacek (born 1894; wives Ida Delisle, then Bridget Wardyn Jezewski, m. 1955) | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son, probably Edgar Steven), **Kenneth M.** (son, m. 1941), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb 1941), and Camilla (17) | Yes: Edgar, Kenneth |
+| Joseph August Sedlacek (5 Apr 1894 – 10 Nov 1974, Grand Island City Cemetery G/67; wives Ida Irene Delisle 1888–1952, then Bridget Wardyn Jezewski 1886–1970, m. 1955) | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son, probably Edgar Steven), **Kenneth M.** (son, m. 1941), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb 1941), and Camilla (17) | Yes: Edgar, Kenneth |
 | Emil Joseph Sedlacek (1898–1992) | Green River, WY (m. Marie Klinge, Grand Island, 7 Jun 1923; had a baby) | Born Grand Island; died Denver (index). Visited parents (02, 08) | Yes |
 | Albert Sedlacek | Junction City, KS (married) | At Anna's funeral (12) | Yes |
 | Frank Valentine Sedlacek (1909–1981) | Omaha | "Youngest son." Married Rose Rozic at Holy Assumption, South Omaha; worked A.G. Bach stores, Burlington shops, Omaha packing houses (10) | Yes: likely sons Thomas G., Donald, Robert J., Frank Jr. |

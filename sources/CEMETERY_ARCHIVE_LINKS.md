@@ -9,9 +9,9 @@ These are full name-by-name lists, like `holysepul.txt`, not map or photo pages.
 
 | Cemetery | Link | Why |
 |---|---|---|
-| Bohemian National Cemetery, Omaha (transcribed from the original Czech record book) | https://sites.rootsweb.com/~nedodge/cemetery/bohemian.txt | Omaha's main Czech cemetery |
-| Grand Island Cemetery, full burial list | https://sortedbyname.com/sources/USANE_GrandIsland.html | Joseph A., Ida Delisle, Grand Island relatives |
-| Oak Hill Cemetery, Plattsmouth (wraps around Holy Sepulchre) | http://sites.rootsweb.com/~negraves/OakHillCemeteryPlattsmouthCassCounty.html | Non-Catholic Plattsmouth burials; some families ended up here |
+| Bohemian National Cemetery, **Dodge, Dodge Co.** (not Omaha); checked, no Sedlaceks | https://sites.rootsweb.com/~nedodge/cemetery/bohemian.txt | Done |
+| Grand Island Cemetery, full burial list; checked, found Joseph A., Ida, Bridget | https://sortedbyname.com/sources/USANE_GrandIsland.html | Done (`sources/grand-island-cemetery-excerpt.txt`) |
+| Oak Hill Cemetery, Plattsmouth; checked, no Sedlaceks | http://sites.rootsweb.com/~negraves/OakHillCemeteryPlattsmouthCassCounty.html | Done |
 | Holy Sepulchre, Plattsmouth (done) | https://web.archive.org/web/2020/http://files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt | Already extracted |
 
 If a rootsweb link fails, put `https://web.archive.org/web/2020/` in front of it.
