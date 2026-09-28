@@ -60,7 +60,8 @@ This comes from search snippets only; none of the pages were opened. Confidence 
   - **Al (Albert Joseph) Sedlacek** of Pocahontas, Iowa (died 1990; m. Berniece Ricklefs 1941; sons Jon 1942–2021 and Joel). He is the only candidate with sons. He would be ours only if a record shows he was born in Nebraska around 1904. S.
   - **Albert Sedlacek** of Wenatchee, WA (m. Camilla Havlen 1937 in Illinois; daughters only). Probably not ours.
   - **Albert Sedlacek** of Manchester, CT. Not ours.
-- Best next source: the **Plattsmouth Journal, 27 Sep 1937 p.2** (https://nebnewspapers.unl.edu/lccn/2016270206/1937-09-27/ed-1/seq-2/ocr/). It is probably Joseph's funeral notice with a survivor list, which would show where Albert lived in 1937.
+- **Checked 27 Sep 1937 p.2** (the user pulled it): it holds only Cass County news and the county board's claims, with nothing on Sedlacek. The only mention there is Deputy Sheriff Cass L. Sylvester's salary. Joseph's funeral notice is still unfound; search "Sedlacek" in all Sep–Oct 1937 issues.
+- Earlier lead, now checked: the **Plattsmouth Journal, 27 Sep 1937 p.2** (https://nebnewspapers.unl.edu/lccn/2016270206/1937-09-27/ed-1/seq-2/ocr/). It is probably Joseph's funeral notice with a survivor list, which would show where Albert lived in 1937.
 
 ## Holy Sepulchre burial register (Plattsmouth)
 
