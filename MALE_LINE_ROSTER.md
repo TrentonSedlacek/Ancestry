@@ -30,10 +30,10 @@ Your direct line is in **bold**.
 
 | Person | Dates | Status | Need |
 |---|---|---|---|
-| Joseph August | 5 Apr 1894 – 10 Nov 1974 | C | Done |
+| Joseph August | 5 Apr 1894 (Alliance, NE) – 10 Nov 1974 | C | Done |
 | William | about 1896 – 1898 | C, d. young | none |
 | Emil Joseph | 14 Mar 1898 – 27 Jun 1992 | C | Only daughters found; confirm no son (1930/1940 census) |
-| Albert | about 1904 – ? | C (existed), L (birth year) | Everything: wife, children, death |
+| Albert (likely Albert C., m. Mable Lamb) | about 1904 – 1977? | C (existed), L (identity) | Record naming Albert C.'s parents; Kansas 1930/1940 census |
 | Edward | about 1904 – 1906 | C, d. young | none |
 | **George Henry** | 17 May 1907 – 21 May 1977 | C | Done |
 | Frank Valentine m. Rose Rozic | 1909 – Mar 1981 | C | Exact dates; list of sons |
@@ -47,14 +47,15 @@ Your direct line is in **bold**.
 | Joseph A. | Kenneth M. | 1916 – 1983 | C |
 | Joseph A. | Bernard S. | 1921 – 2014 | C |
 | Joseph A. | Edgar S. | 1924 – 1981 | C |
-| Albert | Albert Jr.? | 1927 – 1999 | S |
-| **George Henry** | Richard Wayne | 1932 – 2001 | C |
+| Albert | Albert Joseph Jr. | 20 Dec 1927 – 12 Aug 1999 | L |
+| Albert | James Gerald | 16 Sep 1937 – 4 Jan 2001 | L |
+| **George Henry** | Richard Wayne | 1931 (NUMIDENT; BIRLS 1932) – 2001 | C |
 | **George Henry** | George Daniel | 1934 – 2014 | C |
 | **George Henry** | **David Joseph Sr.** | 1938 – 2023 | C |
 | Frank V. | Thomas Gregory | 1942 – 2019 | C (BIRLS; obituary) |
-| Frank V. | Donald | ? | L (brother in Thomas's obituary) |
-| Frank V. | Robert J. "Bob" | ? (BIRLS lead: 1929–2008) | L |
-| Frank V. | Frank Jr. | ? | L |
+| Frank V. | Donald George | 4 Mar 1931 – 5 Jun 1998 | C (NUMIDENT) |
+| Frank V. | Robert J. "Bob" | 27 Dec 1929 – 18 Oct 2008 (BIRLS) | L |
+| Frank V. | Francis Eugene (probably "Frank Jr.") | 28 Jun 1933 – 28 Dec 2003 | C (NUMIDENT) |
 
 ## Gen 5
 
@@ -87,5 +88,5 @@ Your direct line is in **bold**.
 
 1. **Widen Gen 2.** Find all of James's sons. Every son is a whole branch. Sources: the 1880 census, James's 1890 death notice, Joseph's 1937 obituary, and NUMIDENT for Thomas and Mike.
 2. **Gen 0.** Find the home village, which is what takes the line back into the 1700s. Sources: Joseph's marriage record, naturalization, and the obituaries of Mary (1901) and Joseph (1937).
-3. **Fill the gaps in Gens 3–4.** Albert; Frank V.'s sons; Bernard's children; Emil (confirm no son).
+3. **Fill the gaps in Gens 3–4.** Confirm Albert = Albert C.; sons of Albert Jr., James Gerald, Donald G., Francis E., Robert J.; Bernard's children; Emil (confirm no son).
 4. **Gens 5–7 (living people).** Mostly from recent obituaries. Lower priority, and treat living people's information with care.
