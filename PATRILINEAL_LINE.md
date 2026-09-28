@@ -5,7 +5,7 @@ Father-to-son line from the earliest known Sedlacek down to Trenton David Sedlac
 ```mermaid
 flowchart TD
     G1["James Sedlak / Sedlack<br/>about 1831 – 6 Jun 1890<br/>m. Mary Cobotka (about 1841 – 21 Mar 1901?)"]
-    G2["Joseph 'Joe' Sedlacek<br/>about 1869/1871 – Sep 1937<br/>m. Anna Bukacek (about 1875 – 10 Aug 1929)"]
+    G2["Joseph J. 'Joe' Sedlacek<br/>about 1869/1871 – Sep 1937<br/>m. Anna Bukacek (about 1875 – 10 Aug 1929)"]
     G3["George Henry Sedlacek<br/>17 May 1907 – 21 May 1977<br/>m. 1931 Helen Marie Korinek (1906–2003)"]
     G4["David Joseph Sedlacek Sr.<br/>22 Mar 1938 – 7 Jan 2023<br/>m. 1959 Joyce Elaine Moraczewski (1941–2023)"]
     G5["Donald James Sedlacek"]
@@ -50,6 +50,19 @@ The full list of Sedlak/Sedlacek rows is in `sources/holy-sepulchre-sedlak-excer
 
 Also in the register: Anna Sedlak (Mrs. Fred Duda), Frances "Sedlok" Slatinsky (born Mar 1886), and Elenor Sedlak Slatinsky. These are possible daughters or granddaughters of James; unknown. An older Janda family ("Thomas Janda, son of Thos. Janda and Anna Sedlak"; Thomas Janda born 1824 in "Vlcasin," Moravia) shows Sedlaks from Moravia in the same community a generation earlier.
 
+## FamilySearch "Nebraska, Marriages, 1855-1995" (Sedlacek search, 737 results)
+
+Entries that belong to this family:
+- **Joseph A. Sedlacek**, born 1894, married 4 Jun 1955 in Grand Island to Bridget L. Wardyn Jezewski. His parents are given as **"Joseph J Sedlacek, Anna Bukacek."** This makes Joseph A. the eldest son (born 1894) and gives Joseph Sr.'s middle initial as **J.** It was a second marriage; his first wife was **Ida Delisle**.
+- **Emil Joseph Sedlacek** married **Marie Klinge** on 7 Jun 1923 in Grand Island. Parents: Joseph Sedlacek and "Anna Bukhcek."
+- **Children of Joseph A. and Ida (Delisle):**
+  - **Kenneth M. Sedlacek**, married Eleanor S. Kassmeyer 21 Jun 1941, Grand Island. This is a new grandson in the male line.
+  - **Goldie Agnes Sedlacek** (born 1919), married Lawrence E. Gehley 11 Feb 1941, Grand Island. This matches clipping 17.
+- **Edgar Steven Sedlacek**, whose wife was Maxine May Kamper and whose daughter is Paula Marie (Woods). Probably Joseph A.'s son Edgar, but not proven.
+- **Not in this index:** Joseph J. and Anna's own marriage (1890s, Plattsmouth), James and Mary's marriage, George's 1931 marriage, and Frank's marriage to Rose Rozic. The index is incomplete, so Joseph and Anna's marriage has to come from Cass County records or the Holy Rosary/St. John parish registers.
+
+A possible clue to the older generation: "Marie Lidlacek [Sedlacek], mother of groom, husband Thomas Janda, son Anton Janda." The cemetery register has Thomas Janda (1824–1901) born in "Vlcasin, Moravia" and his wife Mary Sedlak. So a Moravian Sedlak woman born around the 1820s was in the Plattsmouth community. She could be a sister or cousin of James, but that is unproven. "Vlcasin" may be Vlčatín in the Třebíč district of Moravia, near Hrotovice (the other place named in an obituary). If so, the Moravian families here came from one area, and James may have too.
+
 ## Joseph Sedlacek's children (from Plattsmouth Journal clippings)
 
 Clippings are saved in `clippings/`. Their issue dates weren't captured. A nebnewspapers search for "Joseph Sedlacek" returned these Plattsmouth Journal issues, and the likely matches are:
@@ -67,8 +80,8 @@ Anna's 1929 obituary (11) says she was 54, lived in Plattsmouth most of her life
 
 | Child | Residence in 1929 | Other evidence | Male line to trace? |
 |---|---|---|---|
-| Joseph A. Sedlacek | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb 1941), and Camilla (17) | Yes: Edgar |
-| Emil Joseph Sedlacek (1898–1992) | Green River, WY (married, had a baby) | Born Grand Island; died Denver (index). Visited parents (02, 08) | Yes |
+| Joseph A. Sedlacek (born 1894; wives Ida Delisle, then Bridget Wardyn Jezewski, m. 1955) | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son, probably Edgar Steven), **Kenneth M.** (son, m. 1941), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb 1941), and Camilla (17) | Yes: Edgar, Kenneth |
+| Emil Joseph Sedlacek (1898–1992) | Green River, WY (m. Marie Klinge, Grand Island, 7 Jun 1923; had a baby) | Born Grand Island; died Denver (index). Visited parents (02, 08) | Yes |
 | Albert Sedlacek | Junction City, KS (married) | At Anna's funeral (12) | Yes |
 | Frank Valentine Sedlacek (1909–1981) | Omaha | "Youngest son." Married Rose Rozic at Holy Assumption, South Omaha; worked A.G. Bach stores, Burlington shops, Omaha packing houses (10) | Yes: likely sons Thomas G., Donald, Robert J., Frank Jr. |
 | George Henry Sedlacek (1907–1977) | Plattsmouth | Married Helen Korneck (Korinek), daughter of Mr. and Mrs. V. Korneck, at St. Philip Neri, Florence, NE. Burlington shops, Knights of Columbus; moved to the Korinek farm at Florence (13). Bohemian Sluggers baseball (04) | Our line |
@@ -94,7 +107,7 @@ Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md)
 - James (gen 1): possible other sons Tom/Thomas C. Sedlak (about 1875–1943) and Matthias/Mike Sedlak (1878–1960), both of Plattsmouth (see the table above).
 - Joseph (gen 2): five sons, Joseph A., Emil, Albert, Frank, and George, confirmed by Anna's obituary (see table above).
 - Frank Valentine's likely sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr. Thomas's obituary names parents "Frank and Rose," which fits.
-- Joseph A. (Grand Island): son Edgar, daughters Goldie Agnes (Gehley) and Camilla. Edgar's line not yet traced.
+- Joseph A. (Grand Island, born 1894, m. Ida Delisle): sons Edgar (probably Edgar Steven, m. Maxine May Kamper) and Kenneth M. (m. Eleanor Kassmeyer 1941); daughters Goldie Agnes (Gehley) and Camilla. Their lines are not yet traced.
 - Emil (Green River, WY) and Albert (Junction City, KS) lines: not yet traced.
 
 - George Henry Sedlacek (gen 3) had sons Richard W. (1932–2001), George Daniel (1934–2014) and David Joseph Sr. (1938–2023), plus a daughter, Mary (Sedlacek) Moen, named in George Daniel's 2014 obituary.
