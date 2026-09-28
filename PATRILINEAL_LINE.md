@@ -136,6 +136,23 @@ Rule for this tree: when a record conflicts with the historian's charts, the cha
 
 The charts do not show where the historian found James Sedlak and Mary Cobotka. Her sources for them (a record, a church entry, a family paper) are the best lead for going further back.
 
+## Deviations from the historian's charts
+
+Every place where a record differs from the charts (IMG_2305.JPEG = photo chart, FILE_4042 (1).pdf = PDF chart). The chart value is kept in the tree. Add a row whenever a new record disagrees with them.
+
+| # | Person | Chart says | Record says | Record source | Notes |
+|---|---|---|---|---|---|
+| 1 | James (gen 1) | Born 1832 | Died age 59 on 6 Jun 1890, so born about 1830–31 | Holy Sepulchre burial register, grave 1012 | Off by about a year. Ages at death are often approximate. |
+| 2 | James (gen 1) | Surname "Sedlak" (photo chart); "Sedlacek" (PDF chart) | "Sedlack" | Burial register | The two charts also differ from each other. |
+| 3 | Joseph (gen 2) | Born 1871 | Age 68 at death in Sep 1937, so born about 1869 | Plattsmouth Journal "Joe Sedlacek Found Dead" (clipping 22) | Newspaper ages are often wrong. |
+| 4 | Joseph (gen 2) | "Joseph Sedlacek" | "Joseph J Sedlacek" (father of Joseph A.); "Joseph Sedlock"; "Jospeh Sedlak" | FamilySearch Nebraska Marriages 1955 (Joseph A.); burial register (Charles, 1915); Ancestry index (Emil) | Adds middle initial J. Spellings vary. |
+| 5 | Anna (gen 2 wife) | "Anna Bukacek" | "Bucacek" (newspapers); "Bukhcek" (Emil's 1923 marriage index) | Plattsmouth Journal; FamilySearch | Spelling only. |
+| 6 | George Henry (gen 3) | Died 1977 (Find a Grave: 21 May 1977) | "70, 23 May 1977" | Omaha Area Obits index (World-Herald) | 23 May is probably the notice date, not the death date. Unconfirmed. |
+| 7 | Helen Marie Korinek | "Korinek"; father Vaclav Korinek | "Helen Korneck," daughter of "Mr. and Mrs. V. Korneck" of Florence | Plattsmouth Journal 30 Jul 1931 (clipping 13) | Spelling only. The father's initial matches. |
+| 8 | Františka Fousková (Anna's mother) | Parents Joseph Fousek (b. 1821) and Mariana Stara (b. 1828) | "Daughter of Joseph & Marie (Fousek?)" | Burial register, grave 944 | Consistent. Marie is a form of Mariana, and the register's "(Fousek?)" is a transcriber's guess. |
+
+No conflict (records match the charts): Anna 1875–1929 (register: died 10 Aug 1929, age 54); John Bukacek 1849–1928 (register: 24 Feb 1849 – 23 Sep 1928); Františka Fousková 1849–1926 (register: 6 Aug 1849 – 3 Oct 1926); David J. 1938–2023; George and Helen married 1931.
+
 ## Source files in this repo
 
 - `IMG_2305.JPEG`: five-generation chart back to 5th great-grandparents, with dates, centered on Denise J. Sedlacek (b. 1963).
