@@ -20,7 +20,7 @@ Your direct line is in **bold**.
 
 | Person | Dates | Status | Need |
 |---|---|---|---|
-| **Joseph J. Sedlacek** m. Anna Bukacek | 1871 (chart) – Sep 1937 | C | Birthplace; marriage record (names his parents); full obituary |
+| **Joseph J. Sedlacek** m. Anna Bukacek | 1871 (chart) – about 29 Sep 1937 (found 1 Oct) | C | Birthplace; marriage record (names his parents). Death article found (4 Oct 1937); it lists children only |
 | Thomas C. Sedlak m. Anna Podlesak | about 1875 – 30 Sep 1943 | **Probably not** (L) | NUMIDENT: a Nebraska Thomas Sedlak b. 1875/76 in "Ceama, Slovak" was the son of **Jacob** Sedlak and Frances. Confirm it is the same Thomas |
 | Matej "Mike" Sedlak m. Catherine Vap/Chopp | 18 Dec 1879 (NUMIDENT) – 1960 | **Not a son of James** (C) | NUMIDENT names his parents **Albert** Sedlak and Eleanor; born "Cema." Possibly a cousin |
 | Any other sons born 1855–1885 | ? | ? | 1880 census of James's household |
@@ -86,7 +86,7 @@ Your direct line is in **bold**.
 
 ## Priorities
 
-1. **Widen Gen 2.** Mike and Thomas are ruled out by NUMIDENT (different fathers). Joseph is the only known son. Any others would show in the 1880 census, James's 1890 death notice, or Joseph's 1937 obituary.
+1. **Widen Gen 2.** Mike and Thomas are ruled out by NUMIDENT (different fathers). Joseph is the only known son. Joseph's 1937 death article names no brothers. Any others would show in the 1880 census or James's 1890 death notice.
 2. **Gen 0.** Find the home village, which is what takes the line back into the 1700s. Sources: Joseph's marriage record, naturalization, and the obituaries of Mary (1901) and Joseph (1937).
 3. **Fill the gaps in Gens 3–4.** Confirm Albert = Albert C.; sons of Albert Jr., James Gerald, Donald G., Francis E., Robert J.; Bernard's children; Emil (confirm no son).
 4. **Gens 5–7 (living people).** Mostly from recent obituaries. Lower priority, and treat living people's information with care.

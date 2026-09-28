@@ -18,7 +18,7 @@ flowchart TD
 | Gen | Name | Born | Died | Wife | Sources |
 |---|---|---|---|---|---|
 | 1 | James Sedlak (Sedlack, Sedlacek) | 1832 (chart; burial age 59 gives about 1831) | 6 Jun 1890, age 59 | Mary Cobotka | Charts; Holy Sepulchre burial register, grave 1012 ("James Sedlack") |
-| 2 | Joseph "Joe" Sedlacek | 1871 (chart; death article age 68 gives about 1869) | Sep 1937, Plattsmouth; found dead in a ditch just east of his home at 15th and Main | Anna Bukacek (d. 10 Aug 1929, age 54) | Charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek); Holy Sepulchre lot 49, sec. 3; clippings 11, 22 |
+| 2 | Joseph "Joe" Sedlacek | 1871 (chart; death article age 68 gives about 1869) | about 29 Sep 1937, Plattsmouth; body found Fri 1 Oct 1937 in a ditch just east of his home at 15th and Main, "dead for some two days" (Plattsmouth Journal 4 Oct 1937 p.1) | Anna Bukacek (d. 10 Aug 1929, age 54) | Charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek); Holy Sepulchre lot 49, sec. 3; clippings 11, 22 |
 | 3 | George Henry Sedlacek | 17 May 1907, Plattsmouth, Cass Co., NE | 21 May 1977, Omaha, NE | Helen Marie Korinek (16 Apr 1906 – 30 Dec 2003), m. 1931 | Find a Grave [155297524](https://www.findagrave.com/memorial/155297524/george_henry-sedlacek); headstone photo (dates confirmed); buried Calvary Catholic Cemetery, Omaha, Station 09 |
 | 4 | David Joseph Sedlacek Sr. | 22 Mar 1938, Omaha, NE | 7 Jan 2023, Omaha, NE | Joyce Elaine Moraczewski (1941–2023), m. 1959 | Find a Grave [255616923](https://www.findagrave.com/memorial/255616923/david_joseph-sedlacek); buried Forest Lawn Memorial Park, Omaha |
 | 5 | Donald James Sedlacek | | | | Family (Trenton) |
@@ -69,7 +69,7 @@ This comes from search snippets only; none of the pages were opened. Confidence 
   - **Al (Albert Joseph) Sedlacek** of Pocahontas, Iowa (died 1990; m. Berniece Ricklefs 1941; sons Jon 1942–2021 and Joel). He is the only candidate with sons. He would be ours only if a record shows he was born in Nebraska around 1904. S.
   - **Albert Sedlacek** of Wenatchee, WA (m. Camilla Havlen 1937 in Illinois; daughters only). Probably not ours.
   - **Albert Sedlacek** of Manchester, CT. Not ours.
-- **Checked 27 Sep 1937 p.2** (the user pulled it): it holds only Cass County news and the county board's claims, with nothing on Sedlacek. The only mention there is Deputy Sheriff Cass L. Sylvester's salary. Joseph's funeral notice is still unfound; search "Sedlacek" in all Sep–Oct 1937 issues.
+- **Joseph's death article found:** Plattsmouth Journal, 4 Oct 1937 p.1 (`sources/plattsmouth-journal-1937-10-04-joseph-obituary.txt`). Survivors: George and Frank of Omaha; **Albert of Junction City, Kansas**; Joseph of Grand Island; Emil of Green River, Wyo.; Mrs. Frank J. Koubek of Plattsmouth. So Albert was still in Junction City in 1937. Albert C. Sedlacek's son James Gerald was born in Kansas City, KS on 16 Sep 1937, which fits Kansas but not the exact town; still L. No brothers of Joseph are named.
 - Earlier lead, now checked: the **Plattsmouth Journal, 27 Sep 1937 p.2** (https://nebnewspapers.unl.edu/lccn/2016270206/1937-09-27/ed-1/seq-2/ocr/). It is probably Joseph's funeral notice with a survivor list, which would show where Albert lived in 1937.
 
 ## BIRLS veterans index (Sep 2026)
@@ -232,7 +232,7 @@ Every place where a record differs from the charts (IMG_2305.JPEG = photo chart,
 |---|---|---|---|---|---|
 | 1 | James (gen 1) | Born 1832 | Died age 59 on 6 Jun 1890, so born about 1830–31 | Holy Sepulchre burial register, grave 1012 | Off by about a year. Ages at death are often approximate. |
 | 2 | James (gen 1) | Surname "Sedlak" (photo chart); "Sedlacek" (PDF chart) | "Sedlack" | Burial register | The two charts also differ from each other. |
-| 3 | Joseph (gen 2) | Born 1871 | Age 68 at death in Sep 1937, so born about 1869 | Plattsmouth Journal "Joe Sedlacek Found Dead" (clipping 22) | Newspaper ages are often wrong. |
+| 3 | Joseph (gen 2) | Born 1871 | Age 68 at death in Sep 1937, so born about 1869 | Plattsmouth Journal "Joe Sedlacek Found Dead," 4 Oct 1937 p.1 (clipping 22) | Newspaper ages are often wrong. |
 | 4 | Joseph (gen 2) | "Joseph Sedlacek" | "Joseph J Sedlacek" (father of Joseph A.); "Joseph Sedlock"; "Jospeh Sedlak" | FamilySearch Nebraska Marriages 1955 (Joseph A.); burial register (Charles, 1915); Ancestry index (Emil) | Adds middle initial J. Spellings vary. |
 | 5 | Anna (gen 2 wife) | "Anna Bukacek" | "Bucacek" (newspapers); "Bukhcek" (Emil's 1923 marriage index) | Plattsmouth Journal; FamilySearch | Spelling only. |
 | 6 | George Henry (gen 3) | Died 1977 (Find a Grave: 21 May 1977) | "70, 23 May 1977" | Omaha Area Obits index (World-Herald) | **Resolved by the headstone:** "May 21, 1977" (`photos/george-h-helen-m-sedlacek-headstone-calvary-omaha.webp`). 23 May is the notice date. |
