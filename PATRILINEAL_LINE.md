@@ -235,7 +235,9 @@ Why this is probably James's family (L): Joseph's birth year matches the charts 
 
 If this holds, Joseph was **born in Bohemia** and came over as a child between 1871 and 1880. The family was in Omaha in 1880 and in Plattsmouth by 1890 (James's burial).
 
-Also in Omaha in 1880: **Jacob Sedlachek** (born about 1852, Bohemia) with wife Mary (born about 1861). The Plattsmouth Thomas Sedlak's NUMIDENT names a father Jacob, so Jacob could be a younger relative of Wenzel. Speculative.
+Record details (FamilySearch ark:/61903/1:1:M8YC-1C6): Omaha, **ED 12, sheet 102A**, household 8166859. Wenzel, 47, **laborer**, married; parents born Bohemia. Mary, wife, 37. Joseph, son, 9, born Bohemia. Another FamilySearch user has already attached this record to a Family Tree profile, "Wenzel Sedlachek, 1833–Deceased" (**GVGR-VB5**); check that profile for sources.
+
+Also in Omaha in 1880, in the **same district two pages later (ED 12, sheet 104A)**: **Jacob Sedlachek**, 28, carpenter, born Bohemia, with wife Mary, 19 (ark:/61903/1:1:M8YZ-3BT). Living that close suggests a relative, maybe Wenzel's brother or nephew. The Plattsmouth Thomas Sedlak's NUMIDENT names a father Jacob, so Jacob could be a younger relative of Wenzel. Speculative.
 
 ## Deviations from the historian's charts
 
