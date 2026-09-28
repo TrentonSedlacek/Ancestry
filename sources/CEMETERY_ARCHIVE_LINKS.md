@@ -3,6 +3,19 @@
 The USGenWeb Archives (files.usgwarchives.net) are offline as of Sep 2026. The Wayback Machine kept copies of most of the files. This environment can't reach web.archive.org, so open these links yourself in a browser.
 
 
+## Text burial lists like the Plattsmouth one (open these first)
+
+These are full name-by-name lists, like `holysepul.txt`, not map or photo pages. Ctrl+F for `Sedl`.
+
+| Cemetery | Link | Why |
+|---|---|---|
+| Bohemian National Cemetery, Omaha (transcribed from the original Czech record book) | https://sites.rootsweb.com/~nedodge/cemetery/bohemian.txt | Omaha's main Czech cemetery |
+| Grand Island Cemetery, full burial list | https://sortedbyname.com/sources/USANE_GrandIsland.html | Joseph A., Ida Delisle, Grand Island relatives |
+| Oak Hill Cemetery, Plattsmouth (wraps around Holy Sepulchre) | http://sites.rootsweb.com/~negraves/OakHillCemeteryPlattsmouthCassCounty.html | Non-Catholic Plattsmouth burials; some families ended up here |
+| Holy Sepulchre, Plattsmouth (done) | https://web.archive.org/web/2020/http://files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt | Already extracted |
+
+If a rootsweb link fails, put `https://web.archive.org/web/2020/` in front of it.
+
 ## Links confirmed working (the user opened them, Sep 2026)
 
 - **Hall County folder listing**, saved 10 times from 2011 to 4 Sep 2025. Open the latest capture: https://web.archive.org/web/20250904124040/files.usgwarchives.net/ne/hall/cemeteries/ . Other counties work the same way: open `https://web.archive.org/web/*/files.usgwarchives.net/ne/<county>/cemeteries/`, which shows a calendar of captures, then click the newest blue date.
