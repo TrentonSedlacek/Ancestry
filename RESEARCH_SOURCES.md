@@ -46,6 +46,7 @@ Thomas Gregory Sedlacek (5 Mar 1942 – 24 Jan 2019). His obituary says he was "
    - 1937, Joseph's obituary (survivor list should name all his children): search that year
    - 30 Aug 1943, Thomas Sedlak obituary
    - For James (d. 1890): Plattsmouth Weekly Herald, https://nebnewspapers.unl.edu/lccn/2016270200/
+     - **Checked 12 Jun 1890, all 8 pages** (covers the daily items of about 5–11 Jun): no mention of James or any Sedlak. A name search of all Plattsmouth papers finds no "Sedlak" in any spelling before 1907. The 19 Jun 1890 issue is still unread.
 3. **FamilySearch censuses** (free login): search Joseph Sedlacek/Sedlak in the 1900 census in Grand Island (Hall Co.) and 1910/1920/1930 in Plattsmouth. Each lists all children living at home. Also try 1880 for James's household, which would list Joseph at about 9 and his brothers. 1900 census: https://www.familysearch.org/en/search/collection/1325221
 4. **Find a Grave:** open Joseph (22794841), Anna (22794840), and Matej (22794845) and check the family links and photos. Browse Holy Sepulchre Cemetery (https://www.findagrave.com/cemetery/1959003) for surnames Sedlak and Sedlacek.
 5. **Omaha Area Obits and Marriages indexes:** https://omahaobits.wordpress.com/se-sh/ and https://omahamarriages.wordpress.com/sd-sg/. These give dates and newspaper pages for every Omaha Sedlacek.
