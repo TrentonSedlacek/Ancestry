@@ -32,7 +32,7 @@ Your direct line is in **bold**.
 |---|---|---|---|
 | Joseph August | 5 Apr 1894 (Alliance, NE) – 10 Nov 1974 | C | Done |
 | William | about 1896 – 1898 | C, d. young | none |
-| Emil Joseph | 14 Mar 1898 – 27 Jun 1992 | C | Only daughters found; confirm no son (1930/1940 census) |
+| Emil Joseph | 14 Mar 1898 (Havelock, NUMIDENT) – 27 Jun 1992 | C | Only daughters found; confirm no son (1930/1940 census) |
 | Albert (likely Albert C., m. Mable Lamb) | about 1904 – 1977? | C (existed), L (identity) | Record naming Albert C.'s parents; Kansas 1930/1940 census |
 | Edward | about 1904 – 1906 | C, d. young | none |
 | **George Henry** | 17 May 1907 – 21 May 1977 | C | Done |
@@ -54,6 +54,7 @@ Your direct line is in **bold**.
 | **George Henry** | **David Joseph Sr.** | 1938 – 2023 | C |
 | Frank V. | Thomas Gregory | 1942 – 2019 | C (BIRLS; obituary) |
 | Frank V. | Donald George | 4 Mar 1931 – 5 Jun 1998 | C (NUMIDENT) |
+| Frank V. | Franklin E. (twin of Francis?) | 28 Jun 1933 – 24 Apr 2017 | S |
 | Frank V. | Robert J. "Bob" | 27 Dec 1929 – 18 Oct 2008 (BIRLS) | L |
 | Frank V. | Francis Eugene (probably "Frank Jr.") | 28 Jun 1933 – 28 Dec 2003 | C (NUMIDENT) |
 

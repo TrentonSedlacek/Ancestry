@@ -33,7 +33,7 @@ This comes from search snippets only; none of the pages were opened. Confidence 
 - **Kenneth M. Sedlacek** (21 Jun 1916 – 16 Jun 1983, Army, per BIRLS), m. Eleanor Kassmeyer 1941. Lived in Columbus, NE in 1943 and died before 2025 (C).
   - **Donald K. Sedlacek**, 26 Jan 1943 Columbus – 13 Oct 2025 Council Bluffs, IA. Army 1964; retired from Union Pacific as a Special Agent in 1998. Wife Sharon; children Scott (Tina), Shelley Ragland, Stacy (C, [Hoy funeral home obituary](https://www.hoyfuneral.com/obituaries/donald-sedlacek)).
     - **Scott Sedlacek**, living (C). Grandsons **Brandon** and **Troy** (m. Morgan) Sedlacek are named; that they are Scott's sons is L.
-- **Edgar S. Sedlacek**, 15 Jun 1924 – 15 Sep 1981 (BIRLS, Navy). Navy in WWII. Married Maxine May Kamper (31 May 1925 – 30 Jun 2016) on 30 Mar 1944 in San Diego. They lived in Lexington, then Grand Island, then 29 years in North Platte (C, [Maxine's obituary](https://nptelegraph.com/obituaries/maxine-may-sedlacek-williams/article_bbee788c-3ffb-11e6-b8ea-473fbe6a8dda.html); Find a Grave 166301758).
+- **Edgar Stephen Sedlacek**, 15 Jun 1924 – 15 Sep 1981 (BIRLS, Navy). Navy 24 Apr 1943 – 20 Dec 1945, ABM3C; buried Ft. McPherson National Cemetery, Maxwell, NE, Sec. H site 486 (SortedByName, C). Married Maxine May Kamper (31 May 1925 – 30 Jun 2016) on 30 Mar 1944 in San Diego. They lived in Lexington, then Grand Island, then 29 years in North Platte (C, [Maxine's obituary](https://nptelegraph.com/obituaries/maxine-may-sedlacek-williams/article_bbee788c-3ffb-11e6-b8ea-473fbe6a8dda.html); Find a Grave 166301758).
   - Six sons (C):
     - Stan (Nancy), Broken Bow
     - Pat (Eileen), Cheyenne
@@ -47,10 +47,11 @@ This comes from search snippets only; none of the pages were opened. Confidence 
 - Bernard S. adds: buried **Holy Sepulchre, Plattsmouth**; MSgt/CMSgt, Army Air Forces and Air Force, WWII through Vietnam; enlisted 20 Nov 1939. His parents are still only L; no NUMIDENT entry with parents was on the pasted pages.
 
 **Emil Joseph Sedlacek (1898–1992): probably no male line (L).**
+- **Born in Havelock, Lancaster Co.** per his NUMIDENT (14 Mar 1898; parents Joseph Sedlacek and Anna Bukacek; railroad SSN). The Ancestry index said Grand Island. NUMIDENT comes from his own SS application, so Havelock is more likely. Navy 29 Jul 1918 – 10 Sep 1919.
 - Not the Emil Sedlacek of Fremont who married Elna J. Hansen (daughters born 1930, 1936); that is another family.
 - Married **Marie Theresa Klinge** (16 Jan 1896 – 17 Jun 1988), who is buried at Riverview Cemetery, Green River, WY (Find a Grave 75251506, L). Emil is probably buried there too. Her parents, Joseph John Klinge Sr. (30 Dec 1868 – 30 May 1951) and Mary Katherine (21 Jul 1876 – 26 Jun 1956), are buried in Grand Island City Cemetery G/202 (confirmed from the cemetery list). Her father's Find a Grave page names "Mrs. E. J. Sedlacek, Green River, Wyo." as a daughter.
 - Daughters:
-  - Elaine Marie (1925–2000, m. Jerry Gruber)
+  - Elaine Marie (3 Sep 1925 Grand Island – 6 Dec 2000, m. Jerry Gruber; Denver license 1948 names him Albert G. Gruber). NUMIDENT names parents Emil J. and Marie T. Klinge (C).
   - Rita S. (1928–2025, m. Jim Kelly), who is the "baby" in clipping 08. Marriage license to James H. Kelly, Denver, Sep 1950 (SortedByName, C).
   - Emily Ann (1935–2015, m. Richard Macy)
 - No son was found, and the daughters' obituaries mention no brother. A son who died young would not show up in them; the 1930 and 1940 Green River census would settle it.
@@ -93,6 +94,7 @@ Possible leads:
 Excerpt in `sources/sortedbyname-sedlacek-excerpt.txt`. New for Frank Valentine's line (recorded as "Valentine F Sedlacek" and "Rose M Rozic"):
 - **Donald George**, 4 Mar 1931 Omaha – 5 Jun 1998 Omaha; Army 1951–53 (C).
 - **Francis Eugene**, 28 Jun 1933 Omaha – 28 Dec 2003 (Arizona); Navy, Korea; buried National Memorial Cemetery of Arizona (C). Francis is a form of Frank, so he is probably the "Frank Jr." in Thomas's obituary (L).
+- **Franklin E. Sedlacek**, 1st Lt, Air Force, born **28 Jun 1933** (the same day as Francis Eugene), died 24 Apr 2017, buried Westlawn-Hillcrest, Omaha (VA gravesite list). Same birth date and Omaha burial suggest a twin of Francis (S to L). If so, Franklin is the likelier "Frank Jr." in Thomas's 2019 obituary. Needs a birth record or obituary.
 - Rose M. Sedlacek, 8 Dec 1907 – 22 Apr 1996, Omaha, same zip block as Donald (L, Frank V.'s wife).
 - Thomas Gregory m. Rita C. Gunia; daughter Lisa Marie (1969–1995). Buried Omaha National Cemetery.
 
@@ -101,6 +103,7 @@ Record-vs-record conflict: **Richard Wayne**'s NUMIDENT gives birth **9 Jun 1931
 Speculative leads, not tied to us yet:
 - A second Box Butte/Cherry County Sedlacek family: John Sedlacek and Mary Posver (son Joseph August, b. 9 Sep 1889 Hemingford) and a John and Mary with son George Joseph (b. 10 May 1885, Cherry Co.). Our Joseph was in Alliance, the next town over, in 1894. John could be a relative of James.
 - John J. Sedlacek (m. Vivian Bamey), son Thomas Vohn born Grand Island 1943.
+- Frank S. Sedlacek (14 Nov 1911 – 1 Mar 2002, Omaha). Unplaced.
 - Jerome Anthony Sedlacek (1938–2021, Army), Omaha National Cemetery. Could be one of Frank V.'s sons.
 - **Patrick Chester** (1956–2023) could be Edgar's son Pat.
 
@@ -123,7 +126,7 @@ The full list of Sedlak/Sedlacek rows is in `sources/holy-sepulchre-sedlak-excer
   - Edward (about 1904 – 2 Mar 1906, died of meningitis in **Havelock**)
   - a stillborn infant (Jul 1907)
   - Charles (about Nov 1914 – 15 Mar 1915, died in **Grand Island**, "son of Joseph Sedlock and Anna Bukacek")
-- **Where the family lived:** Alliance, Box Butte Co. in 1894 (Joseph A.'s birth, NUMIDENT), Plattsmouth in the 1890s, Grand Island in 1898 (Emil's birth), Havelock in 1906 (the Burlington shops in Lincoln), Plattsmouth in 1907 (George's birth), Grand Island in 1910 (Frances's birth, 29 Sep 1910, NUMIDENT) and 1914–15, and back in Plattsmouth by the 1920s.
+- **Where the family lived:** Alliance, Box Butte Co. in 1894 (Joseph A.'s birth, NUMIDENT), Plattsmouth in the 1890s, Havelock in 1898 (Emil's birth per NUMIDENT; an Ancestry index says Grand Island), Havelock in 1906 (the Burlington shops in Lincoln), Plattsmouth in 1907 (George's birth), Grand Island in 1910 (Frances's birth, 29 Sep 1910, NUMIDENT) and 1914–15, and back in Plattsmouth by the 1920s.
 - **Anna's family:** Frances Bartek (died 5 Mar 1922, age 51), "daughter of John Bukacek and Frances Foucek," was another of Anna's sisters.
 
 ### Other Plattsmouth Sedlaks: possible brothers of Joseph
