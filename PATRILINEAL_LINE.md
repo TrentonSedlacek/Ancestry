@@ -26,13 +26,22 @@ flowchart TD
 
 ## Joseph Sedlacek's children (from Plattsmouth Journal clippings)
 
-Clippings are saved in `clippings/`. Their issue dates weren't captured, so record them if you can.
+Clippings are saved in `clippings/`. Their issue dates weren't captured. A nebnewspapers search for "Joseph Sedlacek" returned these Plattsmouth Journal issues, and the likely matches are:
+- 27 Sep 1928: John Bucacek obituary (09)
+- 12 and 15 Aug 1929: Mrs. Sedlacek ill (06, 07)
+- 30 Jul 1931: George and Helen Korinek wedding (13)
+- 2 Jun 1932: Frances and Frank Koubek wedding (14)
+- 10 Mar 1941 p.6: Goldie Sedlacek and Lawrence Gehley wedding (17). The Tuesday, 11 Feb wedding was therefore in 1941.
+
+Other hits not yet matched to a clipping: 21 Dec 1914 p.8; 9 Mar, 24 Aug, 3 Sep, and 10 Sep (pp.1–2) 1925; 24 Jun, 29 Jul, and 16 Sep 1926; 20 Jun 1929; 10 May 1934 (pp.1, 6); 19 Mar 1942 p.2.
+
+The same search's Beatrice (Gage Co.), Wahoo, and Lincoln hits are other Joseph Sedlaceks. Clipping 21 is also a different family: Frank Sedlacek, 22, son of Joseph Sedlacek of Prague, Nebraska (Saunders Co.), who died in Fremont.
 
 Anna's 1929 obituary (11) says she was 54, lived in Plattsmouth most of her life, and **married Joseph there**. The family later moved "to other sections of Nebraska" and returned "several years ago." She left **five sons and one daughter**:
 
 | Child | Residence in 1929 | Other evidence | Male line to trace? |
 |---|---|---|---|
-| Joseph A. Sedlacek | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb, probably 1941 since "the late Joseph and Anna"), and Camilla (17) | Yes: Edgar |
+| Joseph A. Sedlacek | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb 1941), and Camilla (17) | Yes: Edgar |
 | Emil Joseph Sedlacek (1898–1992) | Green River, WY (married, had a baby) | Born Grand Island; died Denver (index). Visited parents (02, 08) | Yes |
 | Albert Sedlacek | Junction City, KS (married) | At Anna's funeral (12) | Yes |
 | Frank Valentine Sedlacek (1909–1981) | Omaha | "Youngest son." Married Rose Rozic at Holy Assumption, South Omaha; worked A.G. Bach stores, Burlington shops, Omaha packing houses (10) | Yes: likely sons Thomas G., Donald, Robert J., Frank Jr. |

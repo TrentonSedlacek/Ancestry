@@ -39,7 +39,7 @@ Thomas Gregory Sedlacek (5 Mar 1942 – 24 Jan 2019). His obituary says he was "
 
 ## Pull these first (ranked)
 
-1. **Holy Sepulchre Cemetery transcription (USGenWeb):** http://files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt. Plain text. Should list every Sedlak/Sedlacek buried in the Plattsmouth Catholic cemetery, probably including James (1890) and Mary, with birthplaces for some.
+1. **Holy Sepulchre Cemetery transcription (USGenWeb):** http://files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt. The USGenWeb Archives are offline as of Sep 2026. Try the Wayback Machine copy: https://web.archive.org/web/2020/http://files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt Plain text. Should list every Sedlak/Sedlacek buried in the Plattsmouth Catholic cemetery, probably including James (1890) and Mary, with birthplaces for some.
 2. **Plattsmouth Journal, free full text (UNL Nebraska Newspapers):** https://nebnewspapers.unl.edu/lccn/2016270206/ (also sn95069723 for earlier years). Search "Sedlacek" and "Sedlak."
    - Oct 1929, possibly Anna's death notice: https://nebnewspapers.unl.edu/lccn/2016270206/1929-10-10/ed-1/seq-4/ocr/ and https://nebnewspapers.unl.edu/lccn/2016270206/1929-10-24/ed-1/seq-1/ocr/
    - 2 Jun 1932 Frances's wedding (lists family): https://nebnewspapers.unl.edu/lccn/2016270206/1932-06-02/ed-1/seq-1/ocr/
