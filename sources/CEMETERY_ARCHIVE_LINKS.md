@@ -3,6 +3,22 @@
 The USGenWeb Archives (files.usgwarchives.net) are offline as of Sep 2026. The Wayback Machine kept copies of most of the files. This environment can't reach web.archive.org, so open these links yourself in a browser.
 
 
+## Links confirmed working (the user opened them, Sep 2026)
+
+- **Hall County folder listing**, saved 10 times from 2011 to 4 Sep 2025. Open the latest capture: https://web.archive.org/web/20250904124040/files.usgwarchives.net/ne/hall/cemeteries/ . Other counties work the same way: open `https://web.archive.org/web/*/files.usgwarchives.net/ne/<county>/cemeteries/`, which shows a calendar of captures, then click the newest blue date.
+- **Nebraska table of contents:** https://web.archive.org/web/2020/http://usgwarchives.net/ne/nefiles.htm
+- **Howard County (NEGenWeb, live)** cemetery pages. Its Czech cemeteries are St. Wenceslaus Bohemian, Czechoslovak, Bohemian National, and Mt. Carmel (Paplin). The cemeteries are split across four pages, one per quarter of the county:
+  - https://www.negenweb.net/NEHoward/swcemety.html
+  - https://www.negenweb.net/NEHoward/nwcemety.html
+  - https://www.negenweb.net/NEHoward/secemety.html
+  - https://www.negenweb.net/NEHoward/necemety.html
+- **Douglas County (NEGenWeb)** has no transcriptions for the big Omaha Catholic cemeteries. The free options are:
+  - **Forest Lawn's online database** (linked from http://negenweb.net/NEDouglas/html/cemlist.htm). Richard W., George Daniel, and David J. Sr. are buried at Forest Lawn.
+  - **Omaha Public Library microfilm**: burial cards for Calvary (where George H. and Helen are buried), Holy Sepulchre, and St. Mary's, free to use in person.
+  - **Bohemian National Cemetery**, Center and S. 52nd, the Czech cemetery in Omaha. Search it on Find a Grave.
+  - GOGS lookups are paid, so they are skipped.
+- **Lancaster County (NEGenWeb, live):** https://usgenwebsites.org/NELancaster/cemeteries.html has a Wyuka cemetery search, 1960 county cemetery records (Vols. 1 and 2), and Fairview cemetery records.
+
 ## Why the first one worked
 
 The Holy Sepulchre link worked because we had the **exact file address** (`files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt`), with `https://web.archive.org/web/2020/` put in front of it. The Wayback Machine is reliable for exact addresses. Its wildcard listing pages (`/web/*/...`) are slow and often fail to load.
