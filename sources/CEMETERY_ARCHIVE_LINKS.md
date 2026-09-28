@@ -16,6 +16,12 @@ These are full name-by-name lists, like `holysepul.txt`, not map or photo pages.
 
 If a rootsweb link fails, put `https://web.archive.org/web/2020/` in front of it.
 
+## Plain full-list sources (no search box)
+
+- **sortedbyname.com**, the same site as the Grand Island CSV. Check its index for other Nebraska cemeteries (files named `USANE_...`): https://sortedbyname.com/sources/ (or the home page https://sortedbyname.com).
+- **North Platte / Lincoln County cemetery records**, list pages: http://lincoln.negenealogy.org/cemetery_records.html ; also http://negenweb.net/NELincoln/cemeteries.html
+- **Omaha Catholic cemeteries (Calvary, Holy Sepulchre, St. Mary's): no full list exists online.** interment.net has only 23 (Holy Sepulchre) and 6 (Calvary) records. The complete burial cards (1873–1990) and interment registers (1873–1940) are at History Nebraska, collection RG4014.AM (https://history.nebraska.gov/collection_section/catholic-cemeteries-omaha-neb-rg4014-am/), and on microfilm at the Omaha Public Library. Both are free, but you have to go in person or ask the archive.
+
 ## Next cemeteries, based on who we're still missing (Sep 2026)
 
 | Priority | Who | Where they probably are | Free way in |
