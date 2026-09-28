@@ -4,8 +4,8 @@ Father-to-son line from the earliest known Sedlacek down to Trenton David Sedlac
 
 ```mermaid
 flowchart TD
-    G1["James Sedlak / Sedlack<br/>about 1831 – 6 Jun 1890<br/>m. Mary Cobotka (about 1841 – 21 Mar 1901?)"]
-    G2["Joseph J. 'Joe' Sedlacek<br/>about 1869/1871 – Sep 1937<br/>m. Anna Bukacek (about 1875 – 10 Aug 1929)"]
+    G1["James Sedlak<br/>1832 – 6 Jun 1890<br/>m. Mary Cobotka (about 1841 – 21 Mar 1901?)"]
+    G2["Joseph J. 'Joe' Sedlacek<br/>1871 – Sep 1937<br/>m. Anna Bukacek (about 1875 – 10 Aug 1929)"]
     G3["George Henry Sedlacek<br/>17 May 1907 – 21 May 1977<br/>m. 1931 Helen Marie Korinek (1906–2003)"]
     G4["David Joseph Sedlacek Sr.<br/>22 Mar 1938 – 7 Jan 2023<br/>m. 1959 Joyce Elaine Moraczewski (1941–2023)"]
     G5["Donald James Sedlacek"]
@@ -17,8 +17,8 @@ flowchart TD
 
 | Gen | Name | Born | Died | Wife | Sources |
 |---|---|---|---|---|---|
-| 1 | James Sedlak (Sedlack, Sedlacek) | about 1831 (charts: 1832) | 6 Jun 1890, age 59 | Mary Cobotka | Charts; Holy Sepulchre burial register, grave 1012 ("James Sedlack") |
-| 2 | Joseph "Joe" Sedlacek | about 1869 (age 68 at death) or 1871 (charts) | Sep 1937, Plattsmouth; found dead in a ditch just east of his home at 15th and Main | Anna Bukacek (d. 10 Aug 1929, age 54) | Charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek); Holy Sepulchre lot 49, sec. 3; clippings 11, 22 |
+| 1 | James Sedlak (Sedlack, Sedlacek) | 1832 (chart; burial age 59 gives about 1831) | 6 Jun 1890, age 59 | Mary Cobotka | Charts; Holy Sepulchre burial register, grave 1012 ("James Sedlack") |
+| 2 | Joseph "Joe" Sedlacek | 1871 (chart; death article age 68 gives about 1869) | Sep 1937, Plattsmouth; found dead in a ditch just east of his home at 15th and Main | Anna Bukacek (d. 10 Aug 1929, age 54) | Charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek); Holy Sepulchre lot 49, sec. 3; clippings 11, 22 |
 | 3 | George Henry Sedlacek | 17 May 1907, Plattsmouth, Cass Co., NE | 21 May 1977, Omaha, NE | Helen Marie Korinek (1906–2003), m. 1931 | Find a Grave [155297524](https://www.findagrave.com/memorial/155297524/george_henry-sedlacek); buried Calvary Catholic Cemetery, Omaha, Station 09 |
 | 4 | David Joseph Sedlacek Sr. | 22 Mar 1938, Omaha, NE | 7 Jan 2023, Omaha, NE | Joyce Elaine Moraczewski (1941–2023), m. 1959 | Find a Grave [255616923](https://www.findagrave.com/memorial/255616923/david_joseph-sedlacek); buried Forest Lawn Memorial Park, Omaha |
 | 5 | Donald James Sedlacek | | | | Family (Trenton) |
@@ -125,6 +125,9 @@ Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md)
 6. Czech spelling: Sedláček (the surname means "farmer/smallholder" in Czech). Records before about 1900 may use Sedlacek, Sedlaček, Sedlak or Sedlatschek.
 
 ## About the charts
+
+Rule for this tree: when a record conflicts with the historian's charts, the chart's value stays, and the conflicting record is noted next to it.
+
 
 `IMG_2305.JPEG` and `FILE_4042 (1).pdf` were prepared by a historian, a friend of Denise (Sedlacek) Taylor. They are the baseline for this tree. The records found since then agree with them:
 - James: the chart gives 1832–1890; the burial register says died 6 Jun 1890, age 59.
