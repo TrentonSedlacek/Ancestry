@@ -224,6 +224,19 @@ Rule for this tree: when a record conflicts with the historian's charts, the cha
 
 The charts do not show where the historian found James Sedlak and Mary Cobotka. Her sources for them (a record, a church entry, a family paper) are the best lead for going further back.
 
+## 1880 census lead: the family in Omaha (likely, Sep 2026)
+
+FamilySearch index, 1880 US census, **Omaha, Douglas Co., NE** (search `Sedl*`, Nebraska; no Sedlak/Sedlacek household in Cass County):
+- **Wenzel Sedlachek**, born about 1833, Bohemia ("Czechoslovakia" in the index)
+- **Mary Sedlachek**, wife, born about 1843, Bohemia
+- **Joseph Sedlachek**, son, born about **1871**, Bohemia
+
+Why this is probably James's family (L): Joseph's birth year matches the charts exactly (1871); the father's (1833) and mother's (1843) years are within one to three years of James (chart 1832; burial age gives 1831) and Mary (death age gives 1840–41); and Joseph is the only child listed, which fits Joseph being the only son named anywhere. Wenzel is the German form of **Václav**, and Czech immigrants often used "James" as the English name for Václav, so the name difference may not matter. Not proven: open the record image for street, occupation, birthplaces and neighbors, and look for the family in the 1885 Nebraska state census.
+
+If this holds, Joseph was **born in Bohemia** and came over as a child between 1871 and 1880. The family was in Omaha in 1880 and in Plattsmouth by 1890 (James's burial).
+
+Also in Omaha in 1880: **Jacob Sedlachek** (born about 1852, Bohemia) with wife Mary (born about 1861). The Plattsmouth Thomas Sedlak's NUMIDENT names a father Jacob, so Jacob could be a younger relative of Wenzel. Speculative.
+
 ## Deviations from the historian's charts
 
 Every place where a record differs from the charts (IMG_2305.JPEG = photo chart, FILE_4042 (1).pdf = PDF chart). The chart value is kept in the tree. Add a row whenever a new record disagrees with them.
@@ -238,6 +251,7 @@ Every place where a record differs from the charts (IMG_2305.JPEG = photo chart,
 | 6 | George Henry (gen 3) | Died 1977 (Find a Grave: 21 May 1977) | "70, 23 May 1977" | Omaha Area Obits index (World-Herald) | **Resolved by the headstone:** "May 21, 1977" (`photos/george-h-helen-m-sedlacek-headstone-calvary-omaha.webp`). 23 May is the notice date. |
 | 7 | Helen Marie Korinek | "Korinek"; father Vaclav Korinek | "Helen Korneck," daughter of "Mr. and Mrs. V. Korneck" of Florence | Plattsmouth Journal 30 Jul 1931 (clipping 13) | Spelling only. The father's initial matches. |
 | 8 | Františka Fousková (Anna's mother) | Parents Joseph Fousek (b. 1821) and Mariana Stara (b. 1828) | "Daughter of Joseph & Marie (Fousek?)" | Burial register, grave 944 | Consistent. Marie is a form of Mariana, and the register's "(Fousek?)" is a transcriber's guess. |
+| 9 | James (gen 1) | "James Sedlak"; born 1832 | "Wenzel Sedlachek," born about 1833 (if this household is his) | 1880 US census index, Omaha (FamilySearch) | Identification is only likely. Wenzel = Václav, which Czech-Americans often rendered as James. Spelling Sedlachek. |
 
 No conflict (records match the charts): George H. 1907–1977 and Helen M. 1906–2003 (headstone: 17 May 1907 – 21 May 1977; 16 Apr 1906 – 30 Dec 2003); Anna 1875–1929 (register: died 10 Aug 1929, age 54); John Bukacek 1849–1928 (register: 24 Feb 1849 – 23 Sep 1928); Františka Fousková 1849–1926 (register: 6 Aug 1849 – 3 Oct 1926); David J. 1938–2023; George and Helen married 1931.
 
