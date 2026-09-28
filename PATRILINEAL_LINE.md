@@ -32,7 +32,7 @@ Anna's 1929 obituary (11) says she was 54, lived in Plattsmouth most of her life
 
 | Child | Residence in 1929 | Other evidence | Male line to trace? |
 |---|---|---|---|
-| Joseph A. Sedlacek | Grand Island, NE (married) | At Frances's 1932 wedding (14) | Yes |
+| Joseph A. Sedlacek | Grand Island, NE (married) | At Frances's 1932 wedding (14). Children: **Edgar** (son), Goldie Agnes (m. Lawrence Edward Gehley at St. Mary's Cathedral, Grand Island, Tue 11 Feb, probably 1941 since "the late Joseph and Anna"), and Camilla (17) | Yes: Edgar |
 | Emil Joseph Sedlacek (1898–1992) | Green River, WY (married, had a baby) | Born Grand Island; died Denver (index). Visited parents (02, 08) | Yes |
 | Albert Sedlacek | Junction City, KS (married) | At Anna's funeral (12) | Yes |
 | Frank Valentine Sedlacek (1909–1981) | Omaha | "Youngest son." Married Rose Rozic at Holy Assumption, South Omaha; worked A.G. Bach stores, Burlington shops, Omaha packing houses (10) | Yes: likely sons Thomas G., Donald, Robert J., Frank Jr. |
@@ -45,6 +45,9 @@ Other facts from the clippings:
 - **Mike Sedlak:** Adolph Bucacek of Reliance, S.D. visited "the Mike Sedlak and the Joseph Sedlacek homes" (05). That fits Mike being Joseph's brother but doesn't prove it. Mike is not listed among the family at Anna's funeral, which only named her husband and children.
 - **Joseph Kofka** of Omaha and his wife attended Frances's wedding (14). Possibly related, perhaps a garbled form of Mary "Cobotka"'s surname. Speculative.
 - **Home:** Joseph lived at the southwest corner of 15th and Main streets, Plattsmouth (15). He was once jailed after threatening the neighboring Kvapil family with an unloaded shotgun over a damaged grape vine.
+- **Court:** Joseph pleaded not guilty before Judge C. L. Graves. The complaining witness was Mrs. Mary Kvapil. He was fined $8 plus costs, about $11.50 total (16).
+- **Road work:** Joseph Sedlacek was paid $3.75 from the district road fund, road district 17 (19). The clipping's county and year are unknown.
+- **Probably other Joseph Sedlaceks (not ours):** a Mrs. Joseph Sedlacek of Omaha was a sister of James Sykora (died in Omaha aged 70; 18). Our Joseph's wives don't fit that. A Joseph Sedlacek also appears on a 1902–1904 "Colfax" list (20); Colfax County, NE had many Sedlaceks. Neither is linked to this family yet.
 - **Land:** Joseph sold part of the SE¼ NW¼ of Section 13, Township 12, Range 14 to Adolph Komenda for $1,700 (01).
 - **Marriage record:** Joseph and Anna married in Plattsmouth before 1898, and Joseph A. was probably their eldest. The Cass County marriage record should name Joseph's parents and birthplace. This is now the best document to find.
 
@@ -55,7 +58,8 @@ Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md)
 - James (gen 1): possible other sons Matej "Mike" Sedlak (1878–1960) and Thomas Sedlak (about 1876–1943), both of Plattsmouth.
 - Joseph (gen 2): five sons, Joseph A., Emil, Albert, Frank, and George, confirmed by Anna's obituary (see table above).
 - Frank Valentine's likely sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr. Thomas's obituary names parents "Frank and Rose," which fits.
-- Joseph A. (Grand Island), Emil (Green River, WY), and Albert (Junction City, KS) lines: not yet traced.
+- Joseph A. (Grand Island): son Edgar, daughters Goldie Agnes (Gehley) and Camilla. Edgar's line not yet traced.
+- Emil (Green River, WY) and Albert (Junction City, KS) lines: not yet traced.
 
 - George Henry Sedlacek (gen 3) had sons Richard W. (1932–2001), George Daniel (1934–2014) and David Joseph Sr. (1938–2023), plus a daughter, Mary (Sedlacek) Moen, named in George Daniel's 2014 obituary.
 - Richard W. Sedlacek (1932–2001) m. Patricia Ann Foltz; sons Craig Richard (1956–2008), Charles George "Chuck" (1964–2007) and Chad Michael (1966–2026); daughter Cynthia Joan (1954–1989).
