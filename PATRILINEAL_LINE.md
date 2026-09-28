@@ -29,11 +29,11 @@ flowchart TD
 This comes from search snippets only; none of the pages were opened. Confidence is marked C (confirmed in an obituary snippet), L (likely), S (speculative). None of these people appear on the historian's charts, so there are no deviations to log.
 
 **Joseph August Sedlacek (5 Apr 1894 – 10 Nov 1974), the richest branch.** He is buried in Grand Island City Cemetery, section G, lot 67, beside his first wife **Ida Irene** (Delisle) Sedlacek (10 Feb 1888 – 22 Feb 1952). His second wife, **Bridget** (Wardyn) Jezewski Sedlacek (5 Oct 1886 – 5 Feb 1970), is buried in G/30 with her first husband, John Joseph Jezewski (1882–1951). **Confirmed** from the cemetery burial list (`sources/grand-island-cemetery-excerpt.txt`). No Kenneth, Edgar, Bernard, or Goldie burials are in that cemetery.
-- **Bernard Sedlacek**, 25 Apr 1921 Grand Island – 29 Dec 2014 Bellevue, NE. Parents given as Joseph August Sedlacek and Ida Irene Delisle (L). This is a son we didn't know about. No children found yet.
-- **Kenneth M. Sedlacek**, m. Eleanor Kassmeyer 1941. Lived in Columbus, NE in 1943 and died before 2025 (C).
+- **Bernard S. Sedlacek**, 25 Apr 1921 Grand Island – 29 Dec 2014 Bellevue, NE (dates confirmed by BIRLS). Parents given as Joseph August Sedlacek and Ida Irene Delisle (L). This is a son we didn't know about. No children found yet.
+- **Kenneth M. Sedlacek** (21 Jun 1916 – 16 Jun 1983, Army, per BIRLS), m. Eleanor Kassmeyer 1941. Lived in Columbus, NE in 1943 and died before 2025 (C).
   - **Donald K. Sedlacek**, 26 Jan 1943 Columbus – 13 Oct 2025 Council Bluffs, IA. Army 1964; retired from Union Pacific as a Special Agent in 1998. Wife Sharon; children Scott (Tina), Shelley Ragland, Stacy (C, [Hoy funeral home obituary](https://www.hoyfuneral.com/obituaries/donald-sedlacek)).
     - **Scott Sedlacek**, living (C). Grandsons **Brandon** and **Troy** (m. Morgan) Sedlacek are named; that they are Scott's sons is L.
-- **Edgar S. Sedlacek**, died 15 Sep 1981. Navy in WWII. Married Maxine May Kamper (31 May 1925 – 30 Jun 2016) on 30 Mar 1944 in San Diego. They lived in Lexington, then Grand Island, then 29 years in North Platte (C, [Maxine's obituary](https://nptelegraph.com/obituaries/maxine-may-sedlacek-williams/article_bbee788c-3ffb-11e6-b8ea-473fbe6a8dda.html); Find a Grave 166301758).
+- **Edgar S. Sedlacek**, 15 Jun 1924 – 15 Sep 1981 (BIRLS, Navy). Navy in WWII. Married Maxine May Kamper (31 May 1925 – 30 Jun 2016) on 30 Mar 1944 in San Diego. They lived in Lexington, then Grand Island, then 29 years in North Platte (C, [Maxine's obituary](https://nptelegraph.com/obituaries/maxine-may-sedlacek-williams/article_bbee788c-3ffb-11e6-b8ea-473fbe6a8dda.html); Find a Grave 166301758).
   - Six sons (C):
     - Stan (Nancy), Broken Bow
     - Pat (Eileen), Cheyenne
@@ -62,6 +62,23 @@ This comes from search snippets only; none of the pages were opened. Confidence 
   - **Albert Sedlacek** of Manchester, CT. Not ours.
 - **Checked 27 Sep 1937 p.2** (the user pulled it): it holds only Cass County news and the county board's claims, with nothing on Sedlacek. The only mention there is Deputy Sheriff Cass L. Sylvester's salary. Joseph's funeral notice is still unfound; search "Sedlacek" in all Sep–Oct 1937 issues.
 - Earlier lead, now checked: the **Plattsmouth Journal, 27 Sep 1937 p.2** (https://nebnewspapers.unl.edu/lccn/2016270206/1937-09-27/ed-1/seq-2/ocr/). It is probably Joseph's funeral notice with a survivor list, which would show where Albert lived in 1937.
+
+## BIRLS veterans index (Sep 2026)
+
+Full matches are in `sources/birls-sedlacek-matches.txt`. Confirmed:
+- **Edgar S.:** 15 Jun 1924 – 15 Sep 1981, Navy.
+- **Bernard S.:** 25 Apr 1921 – 29 Dec 2014.
+- **Kenneth M.:** 21 Jun 1916 – 16 Jun 1983, Army.
+- **Emil Joseph:** died 27 Jun 1992, Navy.
+- **Richard Wayne:** 9 Jun 1932 – 27 Aug 2001, Army.
+- **Craig Richard:** 14 Aug 1956 – 29 Apr 2008, Coast Guard.
+- **Thomas G.:** 5 Mar 1942 – 24 Jan 2019, Navy.
+- **George Daniel:** died 27 Feb 2014, Army. BIRLS gives his birth as **1 Jan 1936**, but his obituary and Find a Grave say **17 Nov 1934**. That is a record-vs-record conflict, not a chart deviation (he isn't on the charts). 1 Jan often means only the year was known, so 17 Nov 1934 stands.
+
+Possible leads:
+- **Albert Sedlacek Jr.** (20 Dec 1927 – 12 Aug 1999, Navy) could be a son of our Albert.
+- **Robert J.** (1929–2008) and **Donald George** (1931–1998) could be Frank V.'s sons.
+- **Patrick Chester** (1956–2023) could be Edgar's son Pat.
 
 ## Other cemetery lists checked (Sep 2026)
 
