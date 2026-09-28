@@ -101,7 +101,7 @@ Excerpt in `sources/sortedbyname-sedlacek-excerpt.txt`. New for Frank Valentine'
 Record-vs-record conflict: **Richard Wayne**'s NUMIDENT gives birth **9 Jun 1931** (Omaha, parents George H. and Helen Korinek), but BIRLS gives 9 Jun 1932. NUMIDENT comes from his own SS application, so 1931 is more likely. Check the charts: if they show a year for Richard, log a deviation.
 
 Speculative leads, not tied to us yet:
-- A second Box Butte/Cherry County Sedlacek family: John Sedlacek and Mary Posver (son Joseph August, b. 9 Sep 1889 Hemingford) and a John and Mary with son George Joseph (b. 10 May 1885, Cherry Co.). Our Joseph was in Alliance, the next town over, in 1894. John could be a relative of James.
+- A second Box Butte/Cherry County Sedlacek family: John Sedlacek and Mary Posver (son Joseph August, b. 9 Sep 1889 Hemingford) and a John and Mary with son George Joseph (b. 10 May 1885, Cherry Co.). Our Joseph was in Alliance, the next town over, in 1894. John could be a relative of James. A Hynek Sedlak and Anna Torek also had a son Henry J. born in Hemingford in 1915.
 - John J. Sedlacek (m. Vivian Bamey), son Thomas Vohn born Grand Island 1943.
 - Frank S. Sedlacek (14 Nov 1911 – 1 Mar 2002, Omaha). Unplaced.
 - Jerome Anthony Sedlacek (1938–2021, Army), Omaha National Cemetery. Could be one of Frank V.'s sons.
@@ -133,11 +133,11 @@ The full list of Sedlak/Sedlacek rows is in `sources/holy-sepulchre-sedlak-excer
 
 | Man | Evidence | Relation to Joseph? |
 |---|---|---|
-| Tom (Thomas C.) Sedlak, about 1875 – 30 Sep 1943 | Lot 45/2. Wife Anna Podlesak (died 1916). He is the "Thomas Sedlak, 67" of the 1943 obituary. | Possible brother. Born within 4 years of Joseph. |
-| Matthias/Michael "Mike" Sedlak, 1878–1960 | Lot 30/2. Wife Catherine Vap (Find a Grave: "Capova"). A Bucacek relative visited "the Mike Sedlak and the Joseph Sedlacek homes." | Possible brother. |
+| Tom (Thomas C.) Sedlak, about 1875 – 30 Sep 1943 | Lot 45/2. Wife Anna Podlesak (died 1916). He is the "Thomas Sedlak, 67" of the 1943 obituary. | **Probably not a brother** (L): NUMIDENT for a Nebraska Thomas Sedlak born Dec 1875 / Sep 1876 in "Ceama, Slovak" names his father as Jacob Sedlak (SortedByName). |
+| Matthias/Michael "Mike" Sedlak, 1878–1960 | Lot 30/2. Wife Catherine Vap (Find a Grave: "Capova"). A Bucacek relative visited "the Mike Sedlak and the Joseph Sedlacek homes." | **Not a brother** (C): his NUMIDENT (Matej, born 18 Dec 1879 in "Cema," SSN 718) names his parents Albert Sedlak and Eleanor. Children born in Plattsmouth: Kathryn (1915), Albert Matthew (1918), Matthew John (1922–1996, Coast Guard, Holy Sepulchre). Find a Grave's 22 Dec 1878 differs. |
 | Joseph Sedlak Sr., about 1867 – 1948 | Lot 66/2. Wife Maria Jaza/Jozova. Children Josephine (Noble), Joseph Edward (1902–1924), Frank E. (1903–1992). Frank was born in Bohemia, so this family came over after 1903. | Probably not. He arrived much later, and James is unlikely to have had two living sons named Joseph. |
 
-Also in the register: Anna Sedlak (Mrs. Fred Duda), Frances "Sedlok" Slatinsky (born Mar 1886), and Elenor Sedlak Slatinsky. These are possible daughters or granddaughters of James; unknown. An older Janda family ("Thomas Janda, son of Thos. Janda and Anna Sedlak"; Thomas Janda born 1824 in "Vlcasin," Moravia) shows Sedlaks from Moravia in the same community a generation earlier.
+Also in the register: Anna Sedlak (Mrs. Fred Duda), Frances "Sedlok" Slatinsky (born Mar 1886), and Elenor Sedlak Slatinsky. Mike's NUMIDENT names his mother Eleanor and his father Albert, so Elenor Sedlak Slatinsky may be Mike's mother, remarried (S). These women are more likely from Albert's family than James's. An older Janda family ("Thomas Janda, son of Thos. Janda and Anna Sedlak"; Thomas Janda born 1824 in "Vlcasin," Moravia) shows Sedlaks from Moravia in the same community a generation earlier.
 
 ## FamilySearch "Nebraska, Marriages, 1855-1995" (Sedlacek search, 737 results)
 
@@ -180,7 +180,7 @@ Other facts from the clippings:
 - **Joseph's death** (22): Joseph Sedlacek, 68, was found Friday evening in a ditch just east of his home at 15th and Main streets. He had apparently been dead about two days. He was found by Wayne Shopshire, a boy living nearby. Sheriff Homer Sylvester responded and the body went to the Sattler mortuary. The rest of this article, and the full obituary with survivors, still needs to be found. September 1937.
 - **Anna's funeral** (12) was at Holy Rosary Church (West Pearl St.), with Father Jerry Hancik officiating. She was buried in "the Catholic cemetery west of this city" (Holy Sepulchre). Her surviving siblings were Mrs. Mary Wondra, Frank Bucacek, and Joe Bucacek of Reliance, S.D. (11).
 - **Anna's family:** John Bucacek's obituary (he was 79, so this is Sept 1928) names his four children, including Mrs. Joseph Sedlacek. He came to Plattsmouth as a young man about 45 years earlier and worked about 25 years in the Burlington shops (09).
-- **Mike Sedlak:** Adolph Bucacek of Reliance, S.D. visited "the Mike Sedlak and the Joseph Sedlacek homes" (05). That fits Mike being Joseph's brother but doesn't prove it. Mike is not listed among the family at Anna's funeral, which only named her husband and children.
+- **Mike Sedlak:** ruled out as a brother by his NUMIDENT (father Albert). Adolph Bucacek of Reliance, S.D. visited "the Mike Sedlak and the Joseph Sedlacek homes" (05). That fits Mike being Joseph's brother but doesn't prove it. Mike is not listed among the family at Anna's funeral, which only named her husband and children.
 - **Joseph Kofka** of Omaha and his wife attended Frances's wedding (14). Possibly related, perhaps a garbled form of Mary "Cobotka"'s surname. Speculative.
 - **Home:** Joseph lived at the southwest corner of 15th and Main streets, Plattsmouth (15). He was once jailed after threatening the neighboring Kvapil family with an unloaded shotgun over a damaged grape vine.
 - **Court:** Joseph pleaded not guilty before Judge C. L. Graves. The complaining witness was Mrs. Mary Kvapil. He was fined $8 plus costs, about $11.50 total (16).
@@ -193,7 +193,7 @@ Other facts from the clippings:
 
 Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md):
 
-- James (gen 1): possible other sons Tom/Thomas C. Sedlak (about 1875–1943) and Matthias/Mike Sedlak (1878–1960), both of Plattsmouth (see the table above).
+- James (gen 1): Joseph is the only known son. Tom/Thomas C. Sedlak and Matej "Mike" Sedlak of Plattsmouth were checked and had other fathers (Jacob and Albert, per NUMIDENT). They may still be cousins: Mike's birthplace "Cema" and Thomas's "Ceama, Slovak" look like the same place, and a 1904 arrival "Maty Sedlak" came from "Cermu." "Slovak" could just be a clerk's label; the village is unidentified.
 - Joseph (gen 2): five sons, Joseph A., Emil, Albert, Frank, and George, confirmed by Anna's obituary (see table above).
 - Frank Valentine's likely sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr. Thomas's obituary names parents "Frank and Rose," which fits.
 - Joseph A., Emil, and Albert lines: see "Uncles' lines" below.
