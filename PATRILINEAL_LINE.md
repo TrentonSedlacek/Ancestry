@@ -66,6 +66,7 @@ This comes from search snippets only; none of the pages were opened. Confidence 
 ## Other cemetery lists checked (Sep 2026)
 
 - **Oak Hill Cemetery, Plattsmouth** (rootsweb list, about 120 names): no Sedlaceks. Charles Wondra (1944–2003) is there; the Wondras are the family of Anna's sister Mary Wondra.
+- **Kearney City Cemetery, Buffalo County** (city burial register, S section): no Sedlaceks. The closest names are Sidlo (Emil Jr. and Mary, 2020s), not related.
 - **Bohemian National Cemetery, Dodge, Dodge County** (rootsweb `bohemian.txt`): no Sedlaceks. This file is the Dodge cemetery, *not* Omaha's Bohemian National as first thought.
 
 ## Holy Sepulchre burial register (Plattsmouth)

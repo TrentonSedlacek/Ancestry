@@ -19,6 +19,7 @@ If a rootsweb link fails, put `https://web.archive.org/web/2020/` in front of it
 ## Plain full-list sources (no search box)
 
 - **sortedbyname.com** (the same site as the Grand Island CSV). Its index (https://sortedbyname.com/sources/, checked Sep 2026) has only two Nebraska cemeteries: `USANE_GrandIsland` (done) and `US_NE_Kearney` (Kearney Cemetery, Buffalo Co., low priority). It also has national files that cover everyone, not just one cemetery:
+  - **How to use NUMIDENT/SSDMF there:** sortedbyname.com has merged NUMIDENT and the Death Master File into its main A-to-Z name list. Go to https://sortedbyname.com , pick letter **S**, and page to the range that contains **SEDLACEK** (also SEDLAK, SEDLACK). That page is a plain list with birth and death dates, and often the birthplace and parents' names.
   - `USA_NUMIDENT.html` / `numident.html`: Social Security NUMIDENT. Gives birth date, **birthplace, and parents' names** for people who died after about 1936. This is the best chance to identify **Albert** and to confirm Bernard, Kenneth, and Edgar.
   - `USA_SSDMF.html`: the Social Security Death Master File (birth and death dates, last residence).
   - `BIRLS.html` and `USA_Veterans_Admin.html`: the VA death file (veterans' birth and death dates, service dates). For Edgar (Navy), Bernard, Kenneth, George Daniel, Emil.
