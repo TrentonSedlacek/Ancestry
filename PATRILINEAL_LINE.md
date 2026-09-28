@@ -4,8 +4,8 @@ Father-to-son line from the earliest known Sedlacek down to Trenton David Sedlac
 
 ```mermaid
 flowchart TD
-    G1["James Sedlak / Sedlacek<br/>1832–1890<br/>m. Mary Cobotka"]
-    G2["Joseph 'Joe' Sedlacek<br/>1871–1937<br/>m. Anna Bukacek (1875–1929)"]
+    G1["James Sedlak / Sedlack<br/>about 1831 – 6 Jun 1890<br/>m. Mary Cobotka (about 1841 – 21 Mar 1901?)"]
+    G2["Joseph 'Joe' Sedlacek<br/>about 1869/1871 – Sep 1937<br/>m. Anna Bukacek (about 1875 – 10 Aug 1929)"]
     G3["George Henry Sedlacek<br/>17 May 1907 – 21 May 1977<br/>m. 1931 Helen Marie Korinek (1906–2003)"]
     G4["David Joseph Sedlacek Sr.<br/>22 Mar 1938 – 7 Jan 2023<br/>m. 1959 Joyce Elaine Moraczewski (1941–2023)"]
     G5["Donald James Sedlacek"]
@@ -17,12 +17,38 @@ flowchart TD
 
 | Gen | Name | Born | Died | Wife | Sources |
 |---|---|---|---|---|---|
-| 1 | James Sedlak (Sedlacek) | 1832 | 1890 | Mary Cobotka | IMG_2305.JPEG, FILE_4042 (1).pdf |
-| 2 | Joseph "Joe" Sedlacek | 1871 | 1937 | Anna Bukacek (1875–1929) | Both charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek) |
+| 1 | James Sedlak (Sedlack, Sedlacek) | about 1831 (charts: 1832) | 6 Jun 1890, age 59 | Mary Cobotka | Charts; Holy Sepulchre burial register, grave 1012 ("James Sedlack") |
+| 2 | Joseph "Joe" Sedlacek | about 1869 (age 68 at death) or 1871 (charts) | Sep 1937, Plattsmouth; found dead in a ditch just east of his home at 15th and Main | Anna Bukacek (d. 10 Aug 1929, age 54) | Charts; Find a Grave [22794841](https://www.findagrave.com/memorial/22794841/joseph-sedlacek); Holy Sepulchre lot 49, sec. 3; clippings 11, 22 |
 | 3 | George Henry Sedlacek | 17 May 1907, Plattsmouth, Cass Co., NE | 21 May 1977, Omaha, NE | Helen Marie Korinek (1906–2003), m. 1931 | Find a Grave [155297524](https://www.findagrave.com/memorial/155297524/george_henry-sedlacek); buried Calvary Catholic Cemetery, Omaha, Station 09 |
 | 4 | David Joseph Sedlacek Sr. | 22 Mar 1938, Omaha, NE | 7 Jan 2023, Omaha, NE | Joyce Elaine Moraczewski (1941–2023), m. 1959 | Find a Grave [255616923](https://www.findagrave.com/memorial/255616923/david_joseph-sedlacek); buried Forest Lawn Memorial Park, Omaha |
 | 5 | Donald James Sedlacek | | | | Family (Trenton) |
 | 6 | Trenton David Sedlacek | | | | Self |
+
+## Holy Sepulchre burial register (Plattsmouth)
+
+The full list of Sedlak/Sedlacek rows is in `sources/holy-sepulchre-sedlak-excerpt.txt`. The register was compiled from the Holy Rosary and St. John the Baptist parish records.
+
+- **James:** "James Sedlack, died 6 Jun 1890, age 59." That makes him born about 1830–31, matching the chart's 1832. No lot is recorded.
+- **Mary, probably James's widow:** "Mary Sedlacek, died 21 Mar 1901, age 60" (born about 1840–41). She is buried in **lot 49, section 3, Joseph's family lot**, alongside his children. That makes her very likely Mary Cobotka, Joseph's mother. It is not stated outright.
+- **Joseph's family lot (49/3)** also holds Anna (died 10 Aug 1929, age 54), Joseph (Sep 1937), and these children who died young:
+  - William (about 1896 – 7 Jul 1898)
+  - Marie (died 15 May 1900, 1 day old)
+  - a stillborn infant of "Jos. Sedlacek" (18 Jun 1901)
+  - Edward (about 1904 – 2 Mar 1906, died of meningitis in **Havelock**)
+  - a stillborn infant (Jul 1907)
+  - Charles (about Nov 1914 – 15 Mar 1915, died in **Grand Island**, "son of Joseph Sedlock and Anna Bukacek")
+- **Where the family lived:** Plattsmouth in the 1890s, Grand Island in 1898 (Emil's birth), Havelock in 1906 (the Burlington shops in Lincoln), Plattsmouth in 1907 (George's birth), Grand Island in 1914–15, and back in Plattsmouth by the 1920s.
+- **Anna's family:** Frances Bartek (died 5 Mar 1922, age 51), "daughter of John Bukacek and Frances Foucek," was another of Anna's sisters.
+
+### Other Plattsmouth Sedlaks: possible brothers of Joseph
+
+| Man | Evidence | Relation to Joseph? |
+|---|---|---|
+| Tom (Thomas C.) Sedlak, about 1875 – 30 Sep 1943 | Lot 45/2. Wife Anna Podlesak (died 1916). He is the "Thomas Sedlak, 67" of the 1943 obituary. | Possible brother. Born within 4 years of Joseph. |
+| Matthias/Michael "Mike" Sedlak, 1878–1960 | Lot 30/2. Wife Catherine Vap (Find a Grave: "Capova"). A Bucacek relative visited "the Mike Sedlak and the Joseph Sedlacek homes." | Possible brother. |
+| Joseph Sedlak Sr., about 1867 – 1948 | Lot 66/2. Wife Maria Jaza/Jozova. Children Josephine (Noble), Joseph Edward (1902–1924), Frank E. (1903–1992). Frank was born in Bohemia, so this family came over after 1903. | Probably not. He arrived much later, and James is unlikely to have had two living sons named Joseph. |
+
+Also in the register: Anna Sedlak (Mrs. Fred Duda), Frances "Sedlok" Slatinsky (born Mar 1886), and Elenor Sedlak Slatinsky. These are possible daughters or granddaughters of James; unknown. An older Janda family ("Thomas Janda, son of Thos. Janda and Anna Sedlak"; Thomas Janda born 1824 in "Vlcasin," Moravia) shows Sedlaks from Moravia in the same community a generation earlier.
 
 ## Joseph Sedlacek's children (from Plattsmouth Journal clippings)
 
@@ -49,6 +75,7 @@ Anna's 1929 obituary (11) says she was 54, lived in Plattsmouth most of her life
 | Frances Sedlacek | Plattsmouth | "Only daughter." Married Frank J. Koubek (son of Adolph Koubek) at Holy Rosary (14) | No (female) |
 
 Other facts from the clippings:
+- **Joseph's death** (22): Joseph Sedlacek, 68, was found Friday evening in a ditch just east of his home at 15th and Main streets. He had apparently been dead about two days. He was found by Wayne Shopshire, a boy living nearby. Sheriff Homer Sylvester responded and the body went to the Sattler mortuary. The rest of this article, and the full obituary with survivors, still needs to be found. September 1937.
 - **Anna's funeral** (12) was at Holy Rosary Church (West Pearl St.), with Father Jerry Hancik officiating. She was buried in "the Catholic cemetery west of this city" (Holy Sepulchre). Her surviving siblings were Mrs. Mary Wondra, Frank Bucacek, and Joe Bucacek of Reliance, S.D. (11).
 - **Anna's family:** John Bucacek's obituary (he was 79, so this is Sept 1928) names his four children, including Mrs. Joseph Sedlacek. He came to Plattsmouth as a young man about 45 years earlier and worked about 25 years in the Burlington shops (09).
 - **Mike Sedlak:** Adolph Bucacek of Reliance, S.D. visited "the Mike Sedlak and the Joseph Sedlacek homes" (05). That fits Mike being Joseph's brother but doesn't prove it. Mike is not listed among the family at Anna's funeral, which only named her husband and children.
@@ -64,7 +91,7 @@ Other facts from the clippings:
 
 Candidates from the Sep 2026 source search (unverified; see RESEARCH_SOURCES.md):
 
-- James (gen 1): possible other sons Matej "Mike" Sedlak (1878–1960) and Thomas Sedlak (about 1876–1943), both of Plattsmouth.
+- James (gen 1): possible other sons Tom/Thomas C. Sedlak (about 1875–1943) and Matthias/Mike Sedlak (1878–1960), both of Plattsmouth (see the table above).
 - Joseph (gen 2): five sons, Joseph A., Emil, Albert, Frank, and George, confirmed by Anna's obituary (see table above).
 - Frank Valentine's likely sons: Thomas Gregory (1942–2019), Donald, Robert J. "Bob," Frank Jr. Thomas's obituary names parents "Frank and Rose," which fits.
 - Joseph A. (Grand Island): son Edgar, daughters Goldie Agnes (Gehley) and Camilla. Edgar's line not yet traced.
