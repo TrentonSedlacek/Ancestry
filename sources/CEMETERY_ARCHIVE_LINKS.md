@@ -12,6 +12,11 @@ The USGenWeb Archives (files.usgwarchives.net) are offline as of Sep 2026. The W
   - https://www.negenweb.net/NEHoward/nwcemety.html
   - https://www.negenweb.net/NEHoward/secemety.html
   - https://www.negenweb.net/NEHoward/necemety.html
+  - The Howard pages show clickable maps rather than text. Click a numbered marker to open that cemetery's list. The Czech and Catholic cemeteries to check:
+    - swcemety map: **25** St. Wenceslaus Bohemian (near Farwell), **3** Czechoslovak, **27** Warsaw, **21** St. Anthony Catholic
+    - nwcemety map (Elba): **1** Bohemian National, **12** Mt. Carmel (Paplin), **7** Elba Catholic
+    - secemety map (St. Paul): **22** St. Libory Catholic, **24** St. Peter & Paul Catholic
+  - The Sherman folder capture gave "internal error". Use the archived Sherman table of contents instead: https://web.archive.org/web/2020/http://usgwarchives.net/ne/sherman/shetable.htm
 - **Douglas County (NEGenWeb)** has no transcriptions for the big Omaha Catholic cemeteries. The free options are:
   - **Forest Lawn's online database** (linked from http://negenweb.net/NEDouglas/html/cemlist.htm). Richard W., George Daniel, and David J. Sr. are buried at Forest Lawn.
   - **Omaha Public Library microfilm**: burial cards for Calvary (where George H. and Helen are buried), Holy Sepulchre, and St. Mary's, free to use in person.
