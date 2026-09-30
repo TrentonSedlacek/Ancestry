@@ -1,0 +1,21 @@
+BIRLS (VA Beneficiary Identification Records Locator Subsystem) - Sedlacek rows matched to this family
+Source: https://www.birls.org search, surname SEDLACEK (254 results), pulled Sep 2026
+Columns: Given | Middle | Surname | Suffix | Born | Died | Branch
+
+CONFIRMED MATCHES (dates agree with other records)
+EDGAR     | S       | SEDLACEK |    | June 15, 1924   | September 15, 1981 | NAVY          <- son of Joseph A.; death date matches Maxine's obituary
+BERNARD   | S       | SEDLACEK |    | April 25, 1921  | December 29, 2014  | UNKNOWN       <- son of Joseph A.; matches Ancestry index exactly
+KENNETH   | M       | SEDLACEK |    | June 21, 1916   | June 16, 1983      | ARMY          <- son of Joseph A. (m. 1941 Grand Island)
+EMIL      | JOSEPH  | SEDLACEK |    | (none listed)   | June 27, 1992      | NAVY          <- son of Joseph J.; death date matches
+RICHARD   | WAYNE   | SEDLACEK |    | June 9, 1932    | August 27, 2001    | ARMY          <- son of George Henry; matches Find a Grave
+CRAIG     | RICHARD | SEDLACEK |    | August 14, 1956 | April 29, 2008     | COAST GUARD   <- son of Richard W.
+THOMAS    | G       | SEDLACEK |    | March 5, 1942   | January 24, 2019   | NAVY          <- son of Frank V.; matches obituary
+GEORGE    | DANIEL  | SEDLACEK |    | January 1, 1936 | February 27, 2014  | ARMY          <- son of George Henry; death matches, BIRTH DATE CONFLICTS (obit/Find a Grave: 17 Nov 1934)
+
+POSSIBLE MATCHES (speculative)
+ALBERT    |         | SEDLACEK | JR | December 20, 1927 | August 12, 1999  | NAVY          <- a "Jr." born 1927 fits a son of our Albert (married by 1929)
+ROBERT    | J       | SEDLACEK |    | December 27, 1929 | October 18, 2008 | ARMY          <- could be Frank V.'s son "Robert J. (Bob)"
+DONALD    | GOERGE  | SEDLACEK |    | March 4, 1931     | June 5, 1998     | ARMY          <- could be Frank V.'s son Donald
+PATRICK   | CHESTER | SEDLACEK |    | December 20, 1956 | September 4, 2023| (2020-23 update) <- could be Edgar's son Pat (Cheyenne)
+
+NOT FOUND in BIRLS: Joseph J., Joseph A., George Henry, Frank V. (d. 1981), David J. Sr., David J. Jr., Donald K. (d. 2025, after data ends), Lynn (d. 2026).

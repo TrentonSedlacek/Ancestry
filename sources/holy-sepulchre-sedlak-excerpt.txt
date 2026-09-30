@@ -1,0 +1,66 @@
+Holy Sepulchre Catholic Cemetery, Plattsmouth, Cass County, Nebraska
+Records of Early Burials (excerpt: Sedlacek/Sedlak and related rows only)
+==========================================================================
+USGENWEB NOTICE: In keeping with our policy of providing
+         free information on the Internet, data may be used by
+         non-commercial entities, as long as this message
+         remains on all copied material. These electronic
+         pages may NOT be reproduced in any format for profit
+         or for presentation by other persons or organizations.
+
+         Persons or organizations desiring to use this material
+         for purposes other than stated above must obtain the
+         written consent of the file contributor.
+
+         This file was contributed for use in the USGenWeb
+         Archives by Gene Wheeler.
+         Census taken from the records of St. John the
+         Baptist Catholic Church, and Holy Rosary Catholic Church.
+Source: http://files.usgwarchives.net/ne/cass/cemeteries/holysepul.txt
+==========================================================================
+Grave | First | Last | Died | Age | Lot | Sec | Comments | Burial
+
+-- Lot 49, Section 3 (Joseph & Anna Sedlacek family lot) --
+ 139 | William      | Sedlacek | 07 Jul 1898 | 2        | 49 | 3 |  |
+ 150 | Marie        | Sedlacek | 15 May 1900 | 1 day    | 49 | 3 |  |
+ 157 | Mary         | Sedlacek | 21 Mar 1901 | 60       | 49 | 3 |  | 21 Mar 1901
+ 206 | Edward       | Sedlak   | 02 Mar 1906 | 1 yr 9 mos | 49 | 3 | Died of meningitis in Havelock. | 04 Mar 1906
+ 230 | Infant       | Sedlak   | Jul 1907    |          | 49 | 3 | Stillborn |
+ 336 | Charles      | Sedlak   | 15 Mar 1915 | 4 months | 49 | 3 | Pneumonia. Died in Grand Island, Neb. Son of Joseph Sedlock and Anna Bukacek. |
+ 896 | Carol        | Sedlacek |             | 4 mos.   | 49 | 3 |  | 17 Mar 1915
+ 521 | Mrs. Joseph  | Sedlacek | 13 Aug 1929 |          | 49 | 3 |  |
+ 978 | Anna         | Sedlacek | 10 Aug 1929 | 54       | 49 | 3 |  | 13 Aug 1929
+ 620 | Joseph       | Sedlacek | Sep 1937    |          | 49 | 3 |  |
+
+-- No lot recorded --
+1012 | James        | Sedlack  | 06 Jun 1890 | 59       |    |   |  |
+ 984 | Infant       | Sedlacek | 18 Jun 1901 |          |    |   | Stillborn. Infant of Jos. Sedlacek. |
+
+-- Other Sedlak families --
+ 424 | Josephine    | Noble (née Sedlak) | 01 Dec 1922 | 23 | 66 | 2 | Operation. Wife of Everett Noble. Daughter of Jos. Sedlak Sr. and Maria Jaza | 04 Dec 1922
+ 938 | Joseph Edward| Sedlak   | 05 Oct 1924 (b. 02 Feb 1902) | 22 | 66 | 2 | Son of Joseph & Maria Sedlak. Bowel operation. Died in Lincoln. | 08 Oct 1924
+ 759 | Joseph       | Sedlak   |             | 81       | 66 | 2 |  | 27 Mar 1948
+ 348 | Mrs. Anna    | Sedlak   | 05 Jul 1916 | 38       | 45 | 2 | Operation. Wife of Thos. C. Sedlock. Daughter of Frank & Anna Podlesak. | 07 Jul 1916
+ 700 | Tom          | Sedlak   | 30 Sep 1943 | 68       | 45 | 2 |  |
+ 335 | Rosalia      | Sedlak   | 25 Feb 1915 | 1-1/2    | 30 | 2 | Measles. Daughter of Matthias Sedlak and Catherine Vap. |
+ 895 | Rosa         | Sedlak   |             | 1 yr 5 mos. | 30 | 2 |  | 27 Feb 1915
+ 688 | Mrs. Michael | Sedlak   | 1942        | 63       | 30 | 2 |  |
+ 487 | Margaret     | Sedlak   | 07 Dec 1927 |          | 7  | 5 |  |
+ 629 | Mrs. Joe     | Sedlak   | Jul 1938    |          |    |   |  |
+ 255 | Infant       | Duda     | 12 Jul 1909 | Few hours | 15 | 4 | Infant of Fred Duda and Anna Sedlak. |
+ 322 | Infant       | Duda     | 09 Feb 1914 | 1 day    | 15 | 4 | Child of Fred Duda and Anna Sedlak. |
+ 344 | Infant       | Duda     | 03 Feb 1916 | 1 day    | 15 | 4 | Child of Fred Duda and Anna Sedlak. |
+ 383 | Frances      | Slatinsky (née Sedlok) | 06 May 1919 (b. Mar 1886) | 33 | 31 | 2 | Appendix operation. Mrs. Frank Slatinsky. | 08 May 1919
+ 418 | Joseph Albert| Slatinsky| 14 Apr 1920 | 5 months | 31 | 2 | Son of Frank Slatinsky and Elenor Sedlak. |
+ 947 | Petronila    | Chaloupka| 24 Jan 1927 | 78-8-1   | 43 | 3 | Daughter of Thomas (Janda?) & Mary Sedlak | 01 Feb 1927
+ 284 | Thomas       | Janda Sr.| 08 May 1911 | 65       | 26 | 2 | Son of Thos. Janda and Anna Sedlak. |
+ 844 | Thomas       | Janda    | 05 Feb 1901 (b. 24 Jul 1824) | 82 | 20 | 3 | Born in Vlcasin, Moravia | 07 Feb 1901
+
+-- Bukacek (Anna's family) --
+ 944 | Francisca    | (Bukacek?) | 03 Oct 1926 (b. 06 Aug 1849) |  | 4 | 4 | Daughter of Joseph & Marie (Fousek?), wife of John Bukocek | 06 Oct 1926
+ 968 | John         | (Bukacek?) | 23 Sep 1928 (b. 24 Feb 1849) |  | 4 | 4 | Born at (Tripove?), Moravia | 26 Sep 1928
+ 505 | John         | Bukacek  | 23 Sep 1928 |          | 4  | 4 |  |
+ 417 | Frances      | Bartek   | 05 Mar 1922 | 51       | 46 | 2 | Apoplexy. Daughter of John Bukacek and Frances Foucek. |
+ 127 | Joseph       | Bukacek  | 31 Dec 1896 | 2 mos    | 4  | 4 |  |
+ 141 | Agnes        | Bukacek  | 16 Aug 1898 | 5 mos    | 4  | 4 |  |
+ 859 | John         | Bukacek  | 31 Mar 1907 | 10 mos   | 4  | 4 |  | 01 Apr 1907
